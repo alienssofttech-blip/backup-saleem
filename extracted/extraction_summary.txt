@@ -1,0 +1,8 @@
+Source file: backup
+product_template rows found: 241
+unique product_product rows found: 643
+Unique barcode/item-code item rows exported to ERPNext CSV: 639
+Rows skipped because both Item Code and Barcode were empty: 4
+Exported rows using template fallbacks: 401
+Warnings:
+- product_product: COPY block ended without \. terminator; parsed 200 rows before the next section.
