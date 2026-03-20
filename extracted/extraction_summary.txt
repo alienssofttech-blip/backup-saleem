@@ -1,0 +1,12 @@
+Source file: backup
+product_template rows found: 241
+unique product_product rows found: 643
+ERPNext item rows exported: 639
+ERPNext item price rows exported: 855
+Rows mapped into provided item-group hierarchy: 639
+Rows with inferred Brand values: 12
+Rows with blank Supplier values: 639
+Rows skipped because both Item Code and Barcode were empty: 4
+Exported item rows using template fallbacks: 401
+Warnings:
+- product_product: COPY block ended without \. terminator; parsed 200 rows before the next section.
