@@ -1,9 +1,9 @@
-Item Code,Item Name,Barcode,Brand,Supplier,Brand Source,Supplier Source
+﻿Item Code,Item Name,Barcode,Brand,Supplier,Brand Source,Supplier Source
 3636,اساور استيل شانل,363636,شانل,,Inferred from item name,No supplier rows in product_supplierinfo dump section
 6666,اساور استيل ماركة مع الخاتم,666666,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 2525,اساور زركون مع الخاتم ملون,252525,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 6363,اساور زركون طوابق,636363,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-8.2352,اساور زركون بناتي,8.23528.2352,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+8.2352,اساور زركون بناتي,8235282352,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 5561,اساور كرستال مع الخاتم,55615561,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 113135,اطواق فيونكه 3 حبه كرت 8 شكل,6220221131350,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 113317,اطواق راقي 9 موديل 6/9,6972202211284,,,Not found in dump,No supplier rows in product_supplierinfo dump section
@@ -368,9 +368,9 @@ Item Code,Item Name,Barcode,Brand,Supplier,Brand Source,Supplier Source
 721497,721497,1277080562172,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 721501,721501,3970357621500,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 721502,721502,5256367739854,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-721587,721587,721587-3,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-721588,721588,721588-2,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-721589,721589,721589-2,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+721587,721587,721587,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+721588,721588,721588,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+721589,721589,721589,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 721592,721592,3783284477894,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 740404,740404,0863765019720,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 741442,741442,9808036205380,,,Not found in dump,No supplier rows in product_supplierinfo dump section
@@ -390,8 +390,8 @@ Item Code,Item Name,Barcode,Brand,Supplier,Brand Source,Supplier Source
 743066,743066,3591919882360,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 743070,743070,4853792486035,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 743489,743489,6725487120396,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-743565,743565,743565-2,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-743600,743600,743600-2,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+743565,743565,743565,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+743600,743600,743600,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 743606,743606,7176209262822,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 743622,743622,9160060587857,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 744107,744107,7279031986079,,,Not found in dump,No supplier rows in product_supplierinfo dump section
@@ -489,9 +489,9 @@ FOOD,Meals,,,,Not found in dump,No supplier rows in product_supplierinfo dump se
 GIFT,Gifts,,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 MIL,Mileage,,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 PH-272,PH-272,6971606202720,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-S160005,S160005,ٍ160005,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-S160008,S160008,ٍ160008,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-S160016,S160016,ٍ160016,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+S160005,S160005,160005,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+S160008,S160008,160008,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+S160016,S160016,160016,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 S210301,اسبورات نسائيه م36-41 (شد 24),6900212103015,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 S210305,اسبورات نسائيه م36-41ش24,6900212103053,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 S210307,اسبوات نسائيه م36-41ش24,6900212103077,,,Not found in dump,No supplier rows in product_supplierinfo dump section
@@ -600,8 +600,8 @@ B298160,شنط يد نسائي,B298160,,,Not found in dump,No supplier rows in p
 S110825,صندل نسائي مقاس 36-41 (شد 24),S110825,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 S110828,صندل نسائي مقاس 36-41 (شد 24),S110828,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 S160011,صندل نسائي م36-41 (شد 24),S160011,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-S160014,صندل نسائي م36-41ش24,ٍ160014,,,Not found in dump,No supplier rows in product_supplierinfo dump section
-S160018,صندل نسائي م36-41ش24,ٍ160018,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+S160014,صندل نسائي م36-41ش24,160014,,,Not found in dump,No supplier rows in product_supplierinfo dump section
+S160018,صندل نسائي م36-41ش24,160018,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 S160019,صندل نسائي م36-41 (شد 24),S160019,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 S210212,صندل نسائي مقاس 36-41 (شد 24),6900452102120,,,Not found in dump,No supplier rows in product_supplierinfo dump section
 S210216,صندل نسائي مقاس 36-41 (شد 24),6900452102168,,,Not found in dump,No supplier rows in product_supplierinfo dump section

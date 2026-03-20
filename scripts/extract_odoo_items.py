@@ -12,9 +12,11 @@ ROOT = Path(__file__).resolve().parents[1]
 DUMP_PATH = ROOT / 'backup'
 ITEMS_CSV_PATH = ROOT / 'extracted' / 'erpnext_items.csv'
 ITEM_PRICES_CSV_PATH = ROOT / 'extracted' / 'erpnext_item_prices.csv'
+ITEMS_EXCEL_SAFE_CSV_PATH = ROOT / 'extracted' / 'erpnext_items_excel_safe.csv'
 ITEM_GROUPS_CSV_PATH = ROOT / 'extracted' / 'erpnext_item_groups.csv'
 UNMATCHED_OUTPUT_PATH = ROOT / 'extracted' / 'unmatched_product_variants.csv'
 BRAND_SUPPLIER_PATH = ROOT / 'extracted' / 'brand_supplier_review.csv'
+BARCODE_REVIEW_PATH = ROOT / 'extracted' / 'barcode_cleanup_review.csv'
 SUMMARY_PATH = ROOT / 'extracted' / 'extraction_summary.txt'
 CURRENCY = 'SAR'
 DEFAULT_ITEM_GROUP = 'اكسسوارات'
@@ -221,6 +223,22 @@ def choose_item_group(item_name: str) -> str:
     return DEFAULT_ITEM_GROUP
 
 
+
+
+def normalize_barcode(raw_barcode: str) -> str:
+    raw_barcode = clean_text(raw_barcode).strip()
+    if not raw_barcode:
+        return ''
+    if raw_barcode.isdigit() or re.fullmatch(r'[A-Za-z0-9]+', raw_barcode):
+        return raw_barcode
+    if raw_barcode[0].isdigit() and '-' in raw_barcode:
+        first_chunk = re.findall(r'\d+', raw_barcode)
+        if first_chunk and len(first_chunk[0]) >= 6:
+            return first_chunk[0]
+    digits_only = ''.join(ch for ch in raw_barcode if ch.isdigit())
+    return digits_only or raw_barcode
+
+
 def infer_brand(item_name: str) -> str:
     normalized_name = normalize_text_static(item_name)
     for brand in BRAND_KEYWORDS:
@@ -238,13 +256,16 @@ def build_item_data(template: Optional[dict], variant: dict) -> dict:
     buying_rate = json_number_map(variant.get('standard_price'))
     item_group = choose_item_group(clean_text(item_name))
     brand = infer_brand(clean_text(item_name))
+    raw_barcode = clean_text(variant.get('barcode'))
+    barcode = normalize_barcode(raw_barcode)
     return {
         'variant_id': clean_text(variant.get('id')),
         'template_id': clean_text(variant.get('product_tmpl_id')),
         'item_code': clean_text(variant.get('default_code') or variant.get('id')),
         'item_name': clean_text(item_name),
         'item_group': item_group,
-        'barcode': clean_text(variant.get('barcode')),
+        'barcode': barcode,
+        'raw_barcode': raw_barcode,
         'brand': brand,
         'supplier': '',
         'maintain_stock': maintain_stock,
@@ -253,6 +274,24 @@ def build_item_data(template: Optional[dict], variant: dict) -> dict:
         'has_template_data': 1 if template is not None else 0,
     }
 
+
+
+
+def excel_safe_text(value: str) -> str:
+    value = clean_text(value)
+    if value and all(ch.isdigit() or ch in '.-' for ch in value):
+        return f'="{value}"'
+    return value
+
+
+def build_excel_safe_item_rows(items_rows: List[dict]) -> List[dict]:
+    safe_rows = []
+    for row in items_rows:
+        updated = dict(row)
+        updated['Item Code'] = excel_safe_text(updated['Item Code'])
+        updated['Barcode (Barcodes)'] = excel_safe_text(updated['Barcode (Barcodes)'])
+        safe_rows.append(updated)
+    return safe_rows
 
 def build_items_template_row(item: dict) -> dict:
     return {
@@ -289,6 +328,20 @@ def build_price_rows(item: dict) -> List[dict]:
 def build_item_groups_rows() -> List[dict]:
     return [{'Item Group Name': name, 'Parent Item Group': parent, 'Is Group': is_group} for name, parent, is_group in ITEM_GROUP_ROWS]
 
+
+
+def build_barcode_review_rows(items: List[dict]) -> List[dict]:
+    rows = []
+    for item in items:
+        rows.append({
+            'Item Code': item['item_code'],
+            'Item Name': item['item_name'],
+            'Raw Barcode': item['raw_barcode'],
+            'Clean Barcode': item['barcode'],
+            'Changed': 1 if item['raw_barcode'] != item['barcode'] else 0,
+        })
+    return rows
+
 def build_brand_supplier_rows(items: List[dict]) -> List[dict]:
     rows = []
     for item in items:
@@ -306,13 +359,13 @@ def build_brand_supplier_rows(items: List[dict]) -> List[dict]:
 
 def write_csv(path: Path, fieldnames: List[str], rows: List[dict]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open('w', newline='', encoding='utf-8') as handle:
+    with path.open('w', newline='', encoding='utf-8-sig') as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
 
 
-def write_summary(total_templates: int, total_unique_variants: int, exported_items: int, exported_price_rows: int, mapped_custom_groups: int, inferred_brands: int, blank_suppliers: int, skipped_missing_identity: int, fallback_rows: int, warnings: List[str]) -> None:
+def write_summary(total_templates: int, total_unique_variants: int, exported_items: int, exported_price_rows: int, mapped_custom_groups: int, inferred_brands: int, blank_suppliers: int, cleaned_barcodes: int, skipped_missing_identity: int, fallback_rows: int, warnings: List[str]) -> None:
     lines = [
         f'Source file: {DUMP_PATH.name}',
         f'product_template rows found: {total_templates}',
@@ -322,6 +375,7 @@ def write_summary(total_templates: int, total_unique_variants: int, exported_ite
         f'Rows mapped into provided item-group hierarchy: {mapped_custom_groups}',
         f'Rows with inferred Brand values: {inferred_brands}',
         f'Rows with blank Supplier values: {blank_suppliers}',
+        f'Rows with cleaned Barcode values: {cleaned_barcodes}',
         f'Rows skipped because both Item Code and Barcode were empty: {skipped_missing_identity}',
         f'Exported item rows using template fallbacks: {fallback_rows}',
     ]
@@ -357,30 +411,37 @@ def main() -> None:
     item_data_rows = list(unique_items.values())
     item_data_rows.sort(key=lambda row: (row['item_group'], row['item_code'], row['barcode'], row['variant_id']))
     items_rows = [build_items_template_row(item) for item in item_data_rows]
+    items_excel_safe_rows = build_excel_safe_item_rows(items_rows)
     price_rows: List[dict] = []
     for item in item_data_rows:
         price_rows.extend(build_price_rows(item))
     groups_rows = build_item_groups_rows()
     brand_supplier_rows = build_brand_supplier_rows(item_data_rows)
+    barcode_review_rows = build_barcode_review_rows(item_data_rows)
 
     items_fieldnames = ['Default Unit of Measure', 'Item Code', 'Item Group', 'Item Name', 'Maintain Stock', 'Opening Stock', 'Brand', 'Shelf Life In Days', 'End of Life', 'Has Expiry Date', 'Barcode (Barcodes)', 'Re-order Qty (Reorder level based on Warehouse)', 'UOM (UOMs)', 'Default Price List (Item Defaults)']
     price_fieldnames = ['ID', 'Item Code', 'Price List', 'Rate', 'Currency', 'Selling', 'UOM', 'Buying', 'Item Name', 'Brand', 'Supplier']
     group_fieldnames = ['Item Group Name', 'Parent Item Group', 'Is Group']
 
     write_csv(ITEMS_CSV_PATH, items_fieldnames, items_rows)
+    write_csv(ITEMS_EXCEL_SAFE_CSV_PATH, items_fieldnames, items_excel_safe_rows)
     write_csv(ITEM_PRICES_CSV_PATH, price_fieldnames, price_rows)
     write_csv(ITEM_GROUPS_CSV_PATH, group_fieldnames, groups_rows)
     write_csv(UNMATCHED_OUTPUT_PATH, ['Odoo Variant ID', 'Odoo Template ID', 'Item Code', 'Barcode', 'Buying Rate', 'Source File', 'Issue'], unmatched_rows)
     write_csv(BRAND_SUPPLIER_PATH, ['Item Code', 'Item Name', 'Barcode', 'Brand', 'Supplier', 'Brand Source', 'Supplier Source'], brand_supplier_rows)
+    write_csv(BARCODE_REVIEW_PATH, ['Item Code', 'Item Name', 'Raw Barcode', 'Clean Barcode', 'Changed'], barcode_review_rows)
     mapped_custom_groups = sum(1 for row in items_rows if row['Item Group'] in {name for name, _, _ in ITEM_GROUP_ROWS})
     inferred_brands = sum(1 for row in item_data_rows if row['brand'])
     blank_suppliers = sum(1 for row in item_data_rows if not row['supplier'])
-    write_summary(len(templates), len(variants), len(items_rows), len(price_rows), mapped_custom_groups, inferred_brands, blank_suppliers, skipped_missing_identity, fallback_rows, warnings)
+    cleaned_barcodes = sum(1 for row in item_data_rows if row['raw_barcode'] != row['barcode'])
+    write_summary(len(templates), len(variants), len(items_rows), len(price_rows), mapped_custom_groups, inferred_brands, blank_suppliers, cleaned_barcodes, skipped_missing_identity, fallback_rows, warnings)
 
     print(f'Wrote {len(items_rows)} ERPNext item rows to {ITEMS_CSV_PATH.relative_to(ROOT)}')
+    print(f'Wrote Excel-safe ERPNext item rows to {ITEMS_EXCEL_SAFE_CSV_PATH.relative_to(ROOT)}')
     print(f'Wrote {len(price_rows)} ERPNext item price rows to {ITEM_PRICES_CSV_PATH.relative_to(ROOT)}')
     print(f'Wrote {len(groups_rows)} item-group rows to {ITEM_GROUPS_CSV_PATH.relative_to(ROOT)}')
     print(f'Wrote brand/supplier review to {BRAND_SUPPLIER_PATH.relative_to(ROOT)}')
+    print(f'Wrote barcode cleanup review to {BARCODE_REVIEW_PATH.relative_to(ROOT)}')
     print(f'Wrote {len(unmatched_rows)} unmatched template rows to {UNMATCHED_OUTPUT_PATH.relative_to(ROOT)}')
     print(f'Wrote extraction summary to {SUMMARY_PATH.relative_to(ROOT)}')
     if warnings:

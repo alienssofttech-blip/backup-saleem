@@ -1,4 +1,4 @@
-ID,Item Code,Price List,Rate,Currency,Selling,UOM,Buying,Item Name,Brand,Supplier
+﻿ID,Item Code,Price List,Rate,Currency,Selling,UOM,Buying,Item Name,Brand,Supplier
 f9bd215a28,3636,Standard Selling SAR,10.00,SAR,1,,0,اساور استيل شانل,شانل,
 dc01240272,3636,Standard Buying,5.0,SAR,0,Nos,1,اساور استيل شانل,شانل,
 ef81714087,6666,Standard Selling SAR,10.00,SAR,1,,0,اساور استيل ماركة مع الخاتم,,
