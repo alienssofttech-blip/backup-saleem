@@ -1,640 +1,640 @@
-Odoo Template ID,Odoo Variant ID,Item Code,Item Name,Arabic Name,Item Group,Item Type,Default UOM,Barcode,Standard Selling Rate,Buying Rate,Disabled,Can Be Sold,Can Be Purchased,Odoo Active,Has Template Data,Source File,Data Notes
-1844,1647,00020,00020,,All Item Groups,consu,Nos,8904047600020,,4.82,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1923,1726,003-4560,003-4560,,All Item Groups,consu,Nos,6288002810733,,13.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1927,1730,003-4561,003-4561,,All Item Groups,consu,Nos,6288002810740,,13.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1921,1724,003-4562,003-4562,,All Item Groups,consu,Nos,6288002810757,,13.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1922,1725,003-4563,003-4563,,All Item Groups,consu,Nos,6288002810764,,13.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1928,1731,003-4564,003-4564,,All Item Groups,consu,Nos,6288002810771,,13.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1924,1727,003-4565,003-4565,,All Item Groups,consu,Nos,6288002811457,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1925,1728,003-4566,003-4566,,All Item Groups,consu,Nos,6288002811471,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1926,1729,003-4568,003-4568,,All Item Groups,consu,Nos,6288002811488,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1929,1732,003-4570,003-4570,,All Item Groups,consu,Nos,6288002811440,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1654,1469,01111,حزامات عريض,حزامات عريض,All Item Groups,consu,Nos,50001111,25.20,15.0,0,1,1,1,1,backup,
-1655,1470,01111,حزامات جنيهات صغير,حزامات جنيهات صغير,All Item Groups,consu,Nos,50002331,25.20,13.5,0,1,1,1,1,backup,
-1864,1667,01149,01149,,All Item Groups,consu,Nos,4000196901149,,5.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1863,1666,01163,01163,,All Item Groups,consu,Nos,4000196901163,,6.6,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1862,1665,01187,01187,,All Item Groups,consu,Nos,4000196901187,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1904,1707,01289,01289,,All Item Groups,consu,Nos,5017007601289,,16.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1879,1682,0285425,0285425,,All Item Groups,consu,Nos,3014260285425,,22.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1887,1690,0351,0351,,All Item Groups,consu,Nos,010181040351,,25.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1895,1698,04736,04736,,All Item Groups,consu,Nos,077043104736,,20.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1933,1736,060524,060524,,All Item Groups,consu,Nos,6926770577150,,4.58,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1710,1525,064-7,064-7,,All Item Groups,consu,Nos,6971606200641,,3.61,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1559,1374,06661,اساور رجالي جلد,اساور رجالي جلد,All Item Groups,consu,Nos,2580607306661,7.06,3.33,0,1,1,1,1,backup,
-1875,1678,06732,سريوم اكليل الجبل,سريوم اكليل الجبل,All Item Groups,consu,Nos,854102006732,35.29,30.0,0,1,1,1,1,backup,
-1740,1555,08663,08663,,All Item Groups,consu,Nos,6912347908663,,1.39,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1690,1505,09276,09276,,All Item Groups,consu,Nos,6923656109276,,25.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1440,1255,10004,10004,,All Item Groups,consu,Nos,540010004,,27.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1524,1339,10110,10110,,All Item Groups,consu,Nos,110110110,,55.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1515,1330,10111,10111,,All Item Groups,consu,Nos,110110111,,50.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1516,1331,10112,10112,,All Item Groups,consu,Nos,110110112,,45.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1517,1332,10113,10113,,All Item Groups,consu,Nos,110110113,,1.67,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1518,1333,10114,10114,,All Item Groups,consu,Nos,110110114,,2.33,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1519,1334,10115,10115,,All Item Groups,consu,Nos,110110115,,3.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1520,1335,10116,10116,,All Item Groups,consu,Nos,110110116,,5.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1521,1336,10117,10117,,All Item Groups,consu,Nos,110110117,,14.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1522,1337,10118,10118,,All Item Groups,consu,Nos,110110118,,6.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1523,1338,10119,10119,,All Item Groups,consu,Nos,110110119,,4.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1514,1329,10122,10122,,All Item Groups,consu,Nos,110110122,,5.83,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1738,1553,10133,10133,,All Item Groups,consu,Nos,6920257910133,,4.05,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1714,1529,1014,1014,,All Item Groups,consu,Nos,3846441975494,,30.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1793,1608,1014,1014,,All Item Groups,consu,Nos,6971606210145,,1.67,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1717,1532,1016A,1016A,,All Item Groups,consu,Nos,2282471632685,,30.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1718,1533,1017,1017,,All Item Groups,consu,Nos,5572616423399,,30.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1790,1605,1017A,1017A,,All Item Groups,consu,Nos,6971606210176,,1.67,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1938,1741,1018,1018,,All Item Groups,consu,Nos,18260513,,6.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1937,1740,10183,10183,,All Item Groups,consu,Nos,3944841810183,,4.58,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1739,1554,10188,10188,,All Item Groups,consu,Nos,6920257910188,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1649,1464,10323,اساور كف,اساور كف,All Item Groups,consu,Nos,7998194610323,11.65,5.5,0,1,1,1,1,backup,
-990,787,1036,شفرات حواجب فلمنجو,شفرات حواجب فلمنجو,All Item Groups,consu,Nos,4902470171036,3.53,1.67,0,1,1,1,1,backup,
-1725,1540,10379,10379,,All Item Groups,consu,Nos,6947247910379,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1719,1534,10430,10430,,All Item Groups,consu,Nos,6920257910430,,4.17,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1741,1556,10447,10447,,All Item Groups,consu,Nos,6920257910447,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1729,1544,10485,10485,,All Item Groups,consu,Nos,6920257910485,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1736,1551,10539,10539,,All Item Groups,consu,Nos,6920257910539,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1842,1645,105392,105392,,All Item Groups,consu,Nos,8998866105392,,13.18,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1941,1744,10540,10540,,All Item Groups,consu,Nos,5395173310540,,5.8,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1526,1341,10554,خواتم زركون اصلي2,خواتم زركون اصلي2,All Item Groups,consu,Nos,110110445,15.20,5.0,0,1,1,1,1,backup,
-1726,1541,10584,10584,,All Item Groups,consu,Nos,6920257910584,,3.79,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1744,1559,10591,10591,,All Item Groups,consu,Nos,6920257910591,,3.68,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1737,1552,10607,10607,,All Item Groups,consu,Nos,6920257910607,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1769,1584,10683,10683,,All Item Groups,consu,Nos,6920257910683,,4.05,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1728,1543,10922,10922,,All Item Groups,consu,Nos,6979077910922,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1727,1542,10966,10966,,All Item Groups,consu,Nos,6920257910966,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1936,1739,109800,109800,,All Item Groups,consu,Nos,6958376109800,,3.33,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1525,1340,11013,11013,,All Item Groups,consu,Nos,11011013,,40.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1734,1549,11024,11024,,All Item Groups,consu,Nos,6920257911024,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1735,1550,11031,11031,,All Item Groups,consu,Nos,6920257911031,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1869,1672,11083,11083,,All Item Groups,consu,Nos,3337872411083,,45.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1446,1261,1110,1110,,All Item Groups,consu,Nos,10011101110,,15.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1821,1624,11111,11111,,All Item Groups,consu,Nos,4000111111,,18.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1195,996,1111111111,محمد,محمد,All Item Groups,consu,Nos,1111111111111111111111,2.00,1.0,0,1,1,1,1,backup,
-788,617,113135,اطواق فيونكه 3 حبه كرت 8 شكل,اطواق فيونكه 3 حبه كرت 8 شكل,All Item Groups,consu,Nos,6220221131350,0.00,0.96,0,1,1,1,1,backup,
-785,614,113317,اطواق راقي 9 موديل 6/9,اطواق راقي 9 موديل 6/9,All Item Groups,consu,Nos,6972202211284,0.00,4.31,0,1,1,1,1,backup,
-781,610,113341,اطواق صوف 2 حبه كرت 6 شكل,اطواق صوف 2 حبه كرت 6 شكل,All Item Groups,consu,Nos,6983521875422,0.00,1.92,0,1,1,1,1,backup,
-787,616,113342,اطواق قماش 3 حبه كرت 8 موديل,اطواق قماش 3 حبه كرت 8 موديل,All Item Groups,consu,Nos,6980056655680,0.00,3.64,0,1,1,1,1,backup,
-783,612,113345,اطواق لولو 2 حبه كرت 7 موديل,اطواق لولو 2 حبه كرت 7 موديل,All Item Groups,consu,Nos,6913711133452,0.00,3.83,0,1,1,1,1,backup,
-780,609,113360,ربطة جبين عريض 10 موديل 9/3/7,ربطة جبين عريض 10 موديل 9/3/7,All Item Groups,consu,Nos,6985765322168,0.00,3.64,0,1,1,1,1,backup,
-782,611,113370,طقم اطواق 10 موديل 5/8,طقم اطواق 10 موديل 5/8,All Item Groups,consu,Nos,6920251133705,0.00,3.83,0,1,1,1,1,backup,
-790,619,113371,طقم كلبس مع ربطه 10 موديل 2/3,طقم كلبس مع ربطه 10 موديل 2/3,All Item Groups,consu,Nos,6920251133712,0.00,3.83,0,1,1,1,1,backup,
-778,607,113388,طوق بندانه 11 موديل 5/8,طوق بندانه 11 موديل 5/8,All Item Groups,consu,Nos,6985632932148,0.00,3.64,0,1,1,1,1,backup,
-789,618,113390,اطواق شتوي عدد 4 شكل 3,اطواق شتوي عدد 4 شكل 3,All Item Groups,consu,Nos,6920240928015,0.00,3.83,0,1,1,1,1,backup,
-777,606,113391,ربطة شتوي 2 حبة كرت عدد 4 اشكال 1/3,ربطة شتوي 2 حبة كرت عدد 4 اشكال 1/3,All Item Groups,consu,Nos,6923654822139,0.00,3.83,0,1,1,1,1,backup,
-1390,1205,1161,باكت مزيل مناكير,مزيل مناكير,All Item Groups,consu,Nos,6946051201161,1.10,17.0,0,1,1,1,1,backup,
-1547,1362,11672,11672,,All Item Groups,consu,Nos,6942257011672,,86.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-989,786,1187,حامورة سحري,حامورة سحري,All Item Groups,consu,Nos,6972196671187,1.10,0.42,0,1,1,1,1,backup,
-1283,1066,1193,هامات رأس بناتي,هامات رأس بناتي,All Item Groups,consu,Nos,61193,14.10,7.5,0,1,1,1,1,backup,
-1792,1607,1198,1198,,All Item Groups,consu,Nos,6971606511983,,1.67,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1715,1530,1198A,1198A,,All Item Groups,consu,Nos,6971606210169,,1.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1868,1671,11991,11991,,All Item Groups,consu,Nos,3337872411991,,59.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1716,1531,1200B,1200B,,All Item Groups,consu,Nos,6971606512003,,1.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1233,1015,120121,نقش حناء صغير,نقش حناء رمضان,All Item Groups,consu,Nos,12121121,1.08,0.67,0,1,1,1,1,backup,
-1231,1013,12120,نقش حناء منوع,نقش حناء منوع,All Item Groups,consu,Nos,12120120,1.08,1.08,0,1,1,1,1,backup,
-1831,1634,12121,12121,,All Item Groups,consu,Nos,4000212121,,18.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1679,1494,12121,12121,,All Item Groups,consu,Nos,5000212121,,0.42,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1658,1473,121212,طقوم استيل مربع,طقوم استيل مربع,All Item Groups,consu,Nos,5000121212,25.20,12.0,0,1,1,1,1,backup,
-1278,1061,12130,12130,,All Item Groups,consu,Nos,12130130,,1.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1645,1460,12288,اظافر كلاسك كلر 5637,اظافر كلاسك كلر 5637,All Item Groups,consu,Nos,8955155122881,9.41,4.5,0,1,1,1,1,backup,
-1837,1640,12335,شنط طقم ادوات اظافر,شنط طقم ادوات اظافر,All Item Groups,consu,Nos,5000112335,10.00,3.0,0,1,1,1,1,backup,
-918,751,12456987541180,ستن ليكر موديل,ستن ليكر موديل,All Item Groups,service,Nos,3944985096139,0.00,,0,0,0,1,1,backup,
-1271,1054,125486255552,125486255552,,All Item Groups,consu,Nos,12548625555211,,1.17,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1854,1657,12861,12861,,All Item Groups,consu,Nos,9248915212861,,,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1194,995,130130,سلوس زركون ريديوم,سلوس زركون ريديوم,All Item Groups,consu,Nos,130130130,25.00,12.0,0,1,1,1,1,backup,
-1832,1635,13131,13131,,All Item Groups,consu,Nos,4000313131,,25.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1371,1186,133133,ابيام كلبس فيونكات 4435,ابيام كلبس فيونكات 4435,All Item Groups,consu,Nos,111133133,3.53,1.5,0,1,1,1,1,backup,
-1848,1651,13316,13316,,All Item Groups,consu,Nos,6905624813316,,7.05,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1847,1650,13352,13352,,All Item Groups,consu,Nos,6973390713352,,4.24,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1527,1342,1342,خواتم زركون اصلي1,خواتم زركون اصلي 3,All Item Groups,consu,Nos,1101110446,10.59,3.33,0,1,1,1,1,backup,
-1931,1734,138459,تيجان,تيجان,All Item Groups,consu,Nos,1344907138459,2.35,,0,1,1,1,1,backup,
-794,623,138667,مطاط برميل جامبو 5 شكل شد 10د 1/4,مطاط برميل جامبو 5 شكل شد 10د 1/4,All Item Groups,consu,Nos,6935356575015,5.88,3.83,0,1,1,1,1,backup,
-793,622,138796,مطاط 12 كرت كيس 10 اشكال 7/6/8,مطاط 12 كرت كيس 10 اشكال 7/6/8,All Item Groups,consu,Nos,6912345138796,1.17,0.34,0,1,1,1,1,backup,
-1275,1058,140140,140140,,All Item Groups,consu,Nos,140140140,,3.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1833,1636,14141,14141,,All Item Groups,consu,Nos,4000414141,,29.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1861,1664,1415,1415,,All Item Groups,consu,Nos,4000196901415,,18.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1372,1187,144144,مبارد,مبارداظافر,All Item Groups,consu,Nos,11144144,1.88,0.83,0,1,1,1,1,backup,
-1376,1191,145145,قطب مطلي رملي,قطب مطلي رملي,All Item Groups,consu,Nos,145145145,9.41,3.0,0,1,1,1,1,backup,
-1783,1598,14958,14958,,All Item Groups,consu,Nos,6912191214958,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1683,1498,1498,9200396114638,,All Item Groups,consu,Nos,9200396114638,,3.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1987,1790,15086,15086,,All Item Groups,consu,Nos,9242092015086,,4.07,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1834,1637,15151,15151,,All Item Groups,consu,Nos,4000515151,,9.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-795,624,154237,مساك فراشة حبه كبير 6 حبة صغير كرت 8 شكل,مساك فراشة حبه كبير 6 حبة صغير كرت 8 شكل,All Item Groups,consu,Nos,8652369924101,0.00,3.83,0,1,1,1,1,backup,
-1771,1586,154392,154392,,All Item Groups,consu,Nos,6930381543923,,2.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1778,1593,154395,154395,,All Item Groups,consu,Nos,6930381543954,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1692,1507,15496,15496,,All Item Groups,consu,Nos,6974482515496,,25.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1373,1188,155155,حبال مائي,حبال مائي,All Item Groups,consu,Nos,11155155,1.88,0.83,0,1,1,1,1,backup,
-1770,1585,1585,8652369925085,,All Item Groups,consu,Nos,8652369925085,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1779,1594,1594,6920251542682,,All Item Groups,consu,Nos,6920251542682,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-779,608,161770,طقم طوق مع كلبس فيونكه 11 موديل 3,طقم طوق مع كلبس فيونكه 11 موديل 3,All Item Groups,consu,Nos,6920255311819,0.00,3.35,0,1,1,1,1,backup,
-791,620,161792,طقم نظارة مع كلبس عدد 8 اشكال 6/1,طقم نظارة مع كلبس عدد 8 اشكال 6/1,All Item Groups,consu,Nos,6935929871018,0.00,3.35,0,1,1,1,1,backup,
-792,621,161793,طقم نظارة مع سلس عدد 8 اشكال 1,طقم نظارة مع سلس عدد 8 اشكال 1,All Item Groups,consu,Nos,6937501072004,0.00,3.83,0,1,1,1,1,backup,
-784,613,161809,طقم اطواق مع الكلبس عدد الاشكال 10 4/5,طقم اطواق مع الكلبس عدد الاشكال 10 4/5,All Item Groups,consu,Nos,6932164567867,0.00,3.83,0,1,1,1,1,backup,
-1754,1569,161841,161841,,All Item Groups,consu,Nos,6902025121231,,1.35,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1750,1565,161847,161847,,All Item Groups,consu,Nos,6950151618477,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1713,1528,165A,165A,,All Item Groups,consu,Nos,2097281338975,,1.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1867,1670,16809,16809,,All Item Groups,consu,Nos,3337875816809,,38.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1866,1669,16847,16847,,All Item Groups,consu,Nos,3337875816847,,55.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1898,1701,1701,8851932469104,,All Item Groups,consu,Nos,8851932469104,,20.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1756,1571,17026,17026,,All Item Groups,consu,Nos,6920251117026,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1900,1703,1703,5912676276076,,All Item Groups,consu,Nos,5912676276076,,13.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1930,1733,1733,4116621761216,,All Item Groups,consu,Nos,4116621761216,,,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1932,1735,1735,6977925340419,,All Item Groups,consu,Nos,6977925340419,,1.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1954,1757,1757,1196148130316,,All Item Groups,consu,Nos,1196148130316,,,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1988,1791,17948,17948,,All Item Groups,consu,Nos,3066109417948,,4.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1768,1583,17994,17994,,All Item Groups,consu,Nos,2025001617994,,1.35,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1745,1560,18223,18223,,All Item Groups,consu,Nos,6912341618223,,4.05,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1751,1566,18380,18380,,All Item Groups,consu,Nos,2025001618380,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1835,1638,18534,فيونكات بناتي,فيونكات بناتي,All Item Groups,consu,Nos,4978326018534,2.35,,0,1,1,1,1,backup,
-1856,1659,1872,1872,,All Item Groups,consu,Nos,4800888221872,,6.83,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1907,1710,191004,191004,,All Item Groups,consu,Nos,769915191004,,42.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-991,788,1919,خواتم زركون منوع,خواتم زركون منوع,All Item Groups,consu,Nos,191919,10.00,5.42,0,1,1,1,1,backup,
-1942,1745,201842,201842,,All Item Groups,consu,Nos,3152200201842,,2.9,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-992,789,2020,خواتم استيل فص ملون,خواتم استيل فص ملون,All Item Groups,consu,Nos,202020,5.70,2.08,0,1,1,1,1,backup,
-1830,1633,2020,2020,,All Item Groups,consu,Nos,4000202020,,15.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1678,1493,202020,202020,,All Item Groups,consu,Nos,5000202020,,0.9,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1685,1500,202209,اقلام روج ميس ديم 2309,اقلام روج ميس ديم 2309,All Item Groups,consu,Nos,6913134202209,4.65,2.8,0,1,1,1,1,backup,
-1393,1208,20243,باكت رموش طبيعي,باكت رموش طبيعي,All Item Groups,consu,Nos,6978941520243,1.10,24.0,0,1,1,1,1,backup,
-1901,1704,20812,20812,,All Item Groups,consu,Nos,8809700320812,,36.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1665,1480,20841,20841,,All Item Groups,consu,Nos,6907240320841,,23.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1684,1499,20956,20956,,All Item Groups,consu,Nos,6973911220956,,2.17,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-993,790,2121,خواتم مع المحبس رزكون,خواتم مع المحبس رزكون,All Item Groups,consu,Nos,212121,15.29,5.5,0,1,1,1,1,backup,
-1822,1625,21212,21212,,All Item Groups,consu,Nos,4000121212,,23.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1636,1451,21590,21590,,All Item Groups,consu,Nos,721590,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1711,1526,221B,221B,,All Item Groups,consu,Nos,6971606202218,,3.1,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-994,791,2222,خواتم أبو فص زركون,خواتم أبو فص زركون,All Item Groups,consu,Nos,222222,8.20,4.5,0,1,1,1,1,backup,
-1853,1656,22338,22338,,All Item Groups,consu,Nos,3353728522338,,,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1857,1660,2244,2244,,All Item Groups,consu,Nos,9005800352244,,11.6,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1402,1217,225228,اقماع حناء المليكة,اقماع حناء المليكة,All Item Groups,consu,Nos,228225228,1.88,1.3,0,1,1,1,1,backup,
-1558,1373,22878,اساور رجالي نسائي,اساور رجالي نسائي,All Item Groups,consu,Nos,8991283322878,8.20,3.33,0,1,1,1,1,backup,
-1742,1557,23019,23019,,All Item Groups,consu,Nos,6920138823019,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1763,1578,23026,23026,,All Item Groups,consu,Nos,6920138823026,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-995,792,2323,قطب زركون فص ملون,قطب زركون فص ملون,All Item Groups,consu,Nos,232323,8.23,4.0,0,1,1,1,1,backup,
-1276,1059,233233,233233,,All Item Groups,consu,Nos,111233233,,3.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1766,1581,23454,23454,,All Item Groups,consu,Nos,6932025123454,,0.69,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1234,1016,236514789632,طقوم زركون راقي,طقوم زركون راقي,All Item Groups,consu,Nos,236514789632145,80.00,60.5,0,1,1,1,1,backup,
-1400,1215,24025,24025,,All Item Groups,consu,Nos,6937803924025,,1.17,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-996,793,2424,قطب زركون ملون صغير,طقوم زركون ملون صغير,All Item Groups,consu,Nos,242424,15.00,11.5,0,1,1,1,1,backup,
-1277,1060,244244,244244,,All Item Groups,consu,Nos,111244244,,2.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1696,1511,24513,24513,,All Item Groups,consu,Nos,3600531324513,,20.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1646,1461,24576,اظافر كلاسك كلر 576,اظافر كلاسك كلر 576,All Item Groups,consu,Nos,8955155245764,18.82,13.0,0,1,1,1,1,backup,
-1876,1679,24611,24611,,All Item Groups,consu,Nos,072140024611,,55.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1644,1459,250917,اظافر صناعي بيوتي 5717,اظافر صناعي بيوتي 5717,All Item Groups,consu,Nos,6973926409179,4.65,2.5,0,1,1,1,1,backup,
-1774,1589,25092,25092,,All Item Groups,consu,Nos,8652369925092,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1776,1591,25146,25146,,All Item Groups,consu,Nos,8652369925146,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1724,1539,2520,2520,,All Item Groups,consu,Nos,6882169872520,,1.04,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-997,794,2525,اساور زركون مع الخاتم ملون,اساور زركون مع الخاتم ملون,All Item Groups,consu,Nos,252525,15.00,10.83,0,1,1,1,1,backup,
-1946,1749,25351,25351,,All Item Groups,consu,Nos,5632467125351,,1.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1279,1062,255255,خواتم بناتي مطلي,خواتم بناتي مطلي,All Item Groups,consu,Nos,255255255,5.88,2.5,0,1,1,1,1,backup,
-1410,1225,25560,علب سحاب مربع وسط,علب سحاب مربع وسط,All Item Groups,consu,Nos,150055625560,5.88,2.5,0,1,1,1,1,backup,
-1411,1226,25561,علب سحاب مربع كبير,علب سحاب مربع كبير,All Item Groups,consu,Nos,150055625561,7.06,2.92,0,1,1,1,1,backup,
-1412,1227,25562,علب سحاب اساور طويل,علب سحاب اساور طويل,All Item Groups,consu,Nos,150055625562,5.88,2.5,0,1,1,1,1,backup,
-1413,1228,25563,علب اساور طويل,علب اساور طويل,All Item Groups,consu,Nos,150055625563,4.65,1.67,0,1,1,1,1,backup,
-1414,1229,25564,علب خواتم مربع,علب خواتم مربع,All Item Groups,consu,Nos,150055625564,4.65,1.67,0,1,1,1,1,backup,
-1415,1230,25565,علب خواتم قطيفة,علب خواتم قطيفة,All Item Groups,consu,Nos,150055625565,5.88,2.5,0,1,1,1,1,backup,
-1416,1231,25566,علب طقوم وسط,علب طقوم وسط,All Item Groups,consu,Nos,150055625566,5.88,2.5,0,1,1,1,1,backup,
-1467,1282,26-2862,26-2862,,All Item Groups,consu,Nos,28622862,,24.67,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1469,1284,26-5569,26-5569,,All Item Groups,consu,Nos,55695569,,21.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1468,1283,26-AF8808,26-AF8808,,All Item Groups,consu,Nos,88088808,,24.67,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1466,1281,26-SDR-211,26-SDR-211,,All Item Groups,consu,Nos,SDR211211,,21.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-998,795,2626,قطب زركون ملون,قطب زركون ملون,All Item Groups,consu,Nos,262626,10.00,5.5,0,1,1,1,1,backup,
-1394,1209,263,263,,All Item Groups,consu,Nos,6933885500263,,9.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1984,1787,26411,26411,,All Item Groups,consu,Nos,6287015126411,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1874,1677,26677,كريم ستافيل,كريم يوسرين ليل نهار,All Item Groups,consu,Nos,072140026677,55.00,45.0,0,1,1,1,1,backup,
-1859,1662,2676,2676,,All Item Groups,consu,Nos,011111022676,,22.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1890,1693,27066,27066,,All Item Groups,consu,Nos,303160227066,,40.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-999,796,2727,قطب زركون ملون دائري,قطب زركون ملون دائري,All Item Groups,consu,Nos,272727,12.00,6.5,0,1,1,1,1,backup,
-1712,1527,272B,272B,,All Item Groups,consu,Nos,1801025620025,,1.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1291,1074,28228,سلوس استيل كرت قصير,سلوس استيل كرت قصير,All Item Groups,consu,Nos,228228228,7.06,2.08,0,1,1,1,1,backup,
-1000,797,2828,قطب زركون فراشه,قطب زركون فراشه,All Item Groups,consu,Nos,282828,10.00,6.0,0,1,1,1,1,backup,
-1682,1497,28568,28568,,All Item Groups,consu,Nos,6925832828568,,3.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1556,1371,28860,28860,,All Item Groups,consu,Nos,6291108528860,,150.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1001,798,2929,قطب زركون منوع,قطب زركون منوع,All Item Groups,consu,Nos,292929,10.00,5.5,0,1,1,1,1,backup,
-3,3,3,cheese burger,,All Item Groups,consu,Nos,735745699119,50.00,,1,1,1,0,1,backup,
-1849,1652,3007546,3007546,,All Item Groups,consu,Nos,8904023007546,,8.71,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1969,1772,30148,30148,,All Item Groups,consu,Nos,8901248230148,,13.93,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1002,799,3030,قطب زركون *3 دائري,قطب زركون *3 دائري,All Item Groups,consu,Nos,303030,5.41,3.67,0,1,1,1,1,backup,
-1789,1604,3045,3045,,All Item Groups,consu,Nos,6940791023045,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1399,1214,30706,30706,,All Item Groups,consu,Nos,725272730706,,14.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1294,1077,30782,بوش مجموعة,بوش مجموعة بيوتي بلندر,All Item Groups,consu,Nos,6939374130782,3.53,2.5,0,1,1,1,1,backup,
-1939,1742,309808,309808,,All Item Groups,consu,Nos,7295322309808,,3.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1947,1750,309934,309934,,All Item Groups,consu,Nos,6972907309934,,2.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1434,1249,3113,3113,,All Item Groups,consu,Nos,100113113,,30.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1018,815,3131,سلوس استيل 2 خط,سلوس استيل 2 خط,All Item Groups,consu,Nos,313131,10.00,7.0,0,1,1,1,1,backup,
-1823,1626,31313,31313,,All Item Groups,consu,Nos,4000131313,,60.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1659,1474,31313,طقوم استيل خفيف منوع,طقوم استيل خفيف منوع,All Item Groups,consu,Nos,5000131313,10.00,3.0,0,1,1,1,1,backup,
-1648,1463,31545,سلوس بناتي دمعة,سلوس بناتي دمعة,All Item Groups,consu,Nos,5456531545,10.00,5.0,0,1,1,1,1,backup,
-1528,1343,31569,تيجان بناتي,تيجان بناتي,All Item Groups,consu,Nos,6905001131569,2.35,0.83,0,1,1,1,1,backup,
-1945,1748,31890,31890,,All Item Groups,consu,Nos,6977892731890,,0.92,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1019,816,3232,سلوس استيل منوع,سلوس استيل منوع,All Item Groups,consu,Nos,323232,10.00,5.5,0,1,1,1,1,backup,
-1020,817,3333,سلوس استيل جنيهات,سلوس استيل جنيهات,All Item Groups,consu,Nos,333333,11.65,7.0,0,1,1,1,1,backup,
-1894,1697,33550,33550,,All Item Groups,consu,Nos,8809640733550,,54.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1777,1592,34020,34020,,All Item Groups,consu,Nos,6957601134020,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1905,1708,34060,34060,,All Item Groups,consu,Nos,769915234060,,55.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1764,1579,34218,34218,,All Item Groups,consu,Nos,6932021134218,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1021,818,3434,سلوس فايتي كليف,سلوس فايتي كليف,All Item Groups,consu,Nos,343434,11.65,7.5,0,1,1,1,1,backup,
-1880,1683,34919,34919,,All Item Groups,consu,Nos,7702018334919,,22.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1688,1503,350590,روج  سائل 330411,روج  سائل 330411,All Item Groups,consu,Nos,6977270350590,4.65,1.88,0,1,1,1,1,backup,
-1548,1363,35306,35306,,All Item Groups,consu,Nos,6281056335306,,125.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1022,819,3535,سلوس استيل مربع + منوع,اساور استيل مربع + منوع,All Item Groups,consu,Nos,353535,10.00,6.0,0,1,1,1,1,backup,
-1023,820,3636,اساور استيل شانل,اساور استيل شانل,All Item Groups,consu,Nos,363636,10.00,5.0,0,1,1,1,1,backup,
-1885,1688,3709,3709,,All Item Groups,consu,Nos,3401578653709,,35.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1980,1783,37101,37101,,All Item Groups,consu,Nos,6291108737101,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1893,1696,37190,37190,,All Item Groups,consu,Nos,8809640737190,,54.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1024,821,3737,اساور مسمار,اساور مسمار مع الخاتم,All Item Groups,consu,Nos,373737,15.20,9.0,0,1,1,1,1,backup,
-1974,1777,37897,37897,,All Item Groups,consu,Nos,6291108737897,,16.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1401,1216,3817,3817,,All Item Groups,consu,Nos,PB2501010203817,,25.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1025,822,3838,قطب زركون ثعبان,قطب زركون ثعبان,All Item Groups,consu,Nos,383838,10.00,6.5,0,1,1,1,1,backup,
-1986,1789,38405,38405,,All Item Groups,consu,Nos,6291108738405,,15.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1976,1779,38436,38436,,All Item Groups,consu,Nos,6291108738436,,15.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1985,1788,38573,38573,,All Item Groups,consu,Nos,6291108738573,,16.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1979,1782,38597,38597,,All Item Groups,consu,Nos,6291108738597,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1983,1786,38610,38610,,All Item Groups,consu,Nos,6291108738610,,15.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1978,1781,38849,38849,,All Item Groups,consu,Nos,6291108738849,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1784,1599,38877,38877,,All Item Groups,consu,Nos,138877,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1977,1780,39068,39068,,All Item Groups,consu,Nos,6291108739068,,15.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1026,823,3939,طقوم زركون خناق,طقوم زركون خناق,All Item Groups,consu,Nos,393939,30.00,20.0,0,1,1,1,1,backup,
-1746,1561,39523,39523,,All Item Groups,consu,Nos,6922211339523,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1889,1692,39570,39570,,All Item Groups,consu,Nos,8809596939570,,5.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1747,1562,39615,39615,,All Item Groups,consu,Nos,6922211339615,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1652,1467,3998,قطب دمعة زركون,قطب دمعة زركون,All Item Groups,consu,Nos,39983998,10.00,6.0,0,1,1,1,1,backup,
-1840,1643,400101,قطب كرت نيو مارك,قطب كرت نيو مارك,All Item Groups,consu,Nos,6906036400101,3.53,1.67,0,1,1,1,1,backup,
-1513,1328,40061,40061,,All Item Groups,consu,Nos,9551001840061,,2.33,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1699,1514,401184,401184,,All Item Groups,consu,Nos,8310039401184,,8.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1886,1689,40313,40313,,All Item Groups,consu,Nos,010181040313,,25.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1689,1504,40358,اقلام ديموند 9244,اقلام ديموند 9244,All Item Groups,consu,Nos,6977925340358,4.65,1.01,0,1,1,1,1,backup,
-1968,1771,40390,40390,,All Item Groups,consu,Nos,8901248240390,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1027,824,4040,طقوم زركون ملون,طقوم زركون ملون,All Item Groups,consu,Nos,404040,15.20,9.0,0,1,1,1,1,backup,
-1948,1751,40400,40400,,All Item Groups,consu,Nos,6971335440400,,0.83,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1897,1700,40421,40421,,All Item Groups,consu,Nos,3401348840421,,35.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1395,1210,40831,40831,,All Item Groups,consu,Nos,6974479440831,,18.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1681,1496,4091,4091,,All Item Groups,consu,Nos,40914091,,1.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1435,1250,4114,4114,,All Item Groups,consu,Nos,100114114,,25.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1293,1076,4119,اسفنج مائي,اسفنج مائي,All Item Groups,consu,Nos,4820230804119,1.10,0.71,0,1,1,1,1,backup,
-1697,1512,41278,41278,,All Item Groups,consu,Nos,3600530941278,,18.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1028,825,4141,سلوس استيل 3 خط,سلوس استيل 3 خط,All Item Groups,consu,Nos,414141,15.20,7.5,0,1,1,1,1,backup,
-1824,1627,41414,41414,,All Item Groups,consu,Nos,4000141414,,60.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1661,1476,41414,قطب كرز,قطب كرز,All Item Groups,consu,Nos,5000141414,3.53,1.08,0,1,1,1,1,backup,
-1749,1564,41451,41451,,All Item Groups,consu,Nos,6920511341451,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1896,1699,41456,41456,,All Item Groups,consu,Nos,052336341456,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1662,1477,41612,اظافر صناعي 5613,اظافر بناتي,All Item Groups,consu,Nos,6907725041612,2.35,1.0,0,1,1,1,1,backup,
-1029,826,4242,سلوس استيل مع القطب شانل,سلوس استيل مع القطب شانل,All Item Groups,consu,Nos,424242,11.65,6.0,0,1,1,1,1,backup,
-1628,1443,43213,43213,,All Item Groups,consu,Nos,743213,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1030,827,4343,طقوم استيل فايتي كليف,طقوم استيل فايتي كليف,All Item Groups,consu,Nos,434343,25.00,20.0,0,1,1,1,1,backup,
-1872,1675,43558,لمعه جسم فازلين,لمعه جسم فازلين,All Item Groups,consu,Nos,305210043558,32.00,25.0,0,1,1,1,1,backup,
-1773,1588,43788,43788,,All Item Groups,consu,Nos,6920251543788,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1772,1587,43825,43825,,All Item Groups,consu,Nos,6920251543825,,2.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1775,1590,43863,43863,,All Item Groups,consu,Nos,6920251543863,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1780,1595,43930,43930,,All Item Groups,consu,Nos,6930381543930,,2.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1850,1653,44277,44277,,All Item Groups,consu,Nos,0376662844277,,1.17,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1031,828,4444,طقوم استيل مربع,طقوم استيل مربع,All Item Groups,consu,Nos,444444,15.20,8.0,0,1,1,1,1,backup,
-1282,1065,447447,كلبس كرز,كلبس كرز,All Item Groups,consu,Nos,447447447,2.35,1.58,0,1,1,1,1,backup,
-1032,829,4545,طقوم استيل شكل ورقة,طقوم استيل شكل ورقة,All Item Groups,consu,Nos,454545,20.00,13.0,0,1,1,1,1,backup,
-1695,1510,45617,45617,,All Item Groups,consu,Nos,7509552845617,,20.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1551,1366,46122,46122,,All Item Groups,consu,Nos,6974772946122,,90.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1836,1639,46134,اقلام كحل عريض ابيض+ازرق,اقلام كحل عريض ابيض+ازرق,All Item Groups,consu,Nos,6920982846134,2.35,0.92,0,1,1,1,1,backup,
-1123,924,4646,4646,,All Item Groups,consu,Nos,464646,,22.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1860,1663,4653,4653,,All Item Groups,consu,Nos,011111054653,,28.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1882,1685,4705,4705,,All Item Groups,consu,Nos,033200194705,,8.45,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1124,925,4747,4747,,All Item Groups,consu,Nos,474747,,22.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1664,1479,47535,47535,,All Item Groups,consu,Nos,6977740247535,,2.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1973,1776,478021,478021,,All Item Groups,consu,Nos,8901248478021,,6.43,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1125,926,4848,4848,,All Item Groups,consu,Nos,484848,,8.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1398,1213,48538,48538,,All Item Groups,consu,Nos,6903645548538,,18.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1274,1057,49280,49280,,All Item Groups,consu,Nos,4928049280,,2.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1126,927,4949,4949,,All Item Groups,consu,Nos,494949,,4.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1957,1760,500081,500081,,All Item Groups,consu,Nos,6294007500081,,7.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1952,1755,500142,500142,,All Item Groups,consu,Nos,6294007500142,,10.43,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1733,1548,5009695,5009695,,All Item Groups,consu,Nos,9853415009695,,4.05,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1958,1761,501316,501316,,All Item Groups,consu,Nos,6294007501316,,7.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1959,1762,501323,501323,,All Item Groups,consu,Nos,6294007501323,,4.29,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1960,1763,501330,501330,,All Item Groups,consu,Nos,6294007501330,,4.29,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1961,1764,501446,501446,,All Item Groups,consu,Nos,6294007501446,,4.29,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1971,1774,501989,501989,,All Item Groups,consu,Nos,6294007501989,,12.39,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1970,1773,502689,502689,,All Item Groups,consu,Nos,6294007502689,,15.46,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1953,1756,503211,503211,,All Item Groups,consu,Nos,6294007503211,,10.43,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1951,1754,504218,504218,,All Item Groups,consu,Nos,6294007504218,,10.43,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1674,1489,5044,5044,,All Item Groups,consu,Nos,50445044,,0.7,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1127,928,5050,5050,,All Item Groups,consu,Nos,505050,,6.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1955,1758,505215,505215,,All Item Groups,consu,Nos,6294007505215,,10.43,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1949,1752,505413,505413,,All Item Groups,consu,Nos,6294007505413,,10.43,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1956,1759,505512,505512,,All Item Groups,consu,Nos,6294007505512,,10.43,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1950,1753,505710,505710,,All Item Groups,consu,Nos,6294007505710,,10.43,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1675,1490,5058,5058,,All Item Groups,consu,Nos,50585058,,1.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1841,1644,51062,51062,,All Item Groups,consu,Nos,000006251062,,1.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1963,1766,51147,51147,,All Item Groups,consu,Nos,8901248451147,,10.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1436,1251,5115,5115,,All Item Groups,consu,Nos,100115115,,21.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1962,1765,51222,51222,,All Item Groups,consu,Nos,8901248451222,,10.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1967,1770,51260,51260,,All Item Groups,consu,Nos,8901248451260,,10.86,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1544,1359,51392,51392,,All Item Groups,consu,Nos,6946038651392,,96.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1545,1360,51415,51415,,All Item Groups,consu,Nos,6946038651415,,80.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1128,929,5151,5151,,All Item Groups,consu,Nos,515151,,6.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1825,1628,51515,51515,,All Item Groups,consu,Nos,4000151515,,60.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1667,1482,51515,51515,,All Item Groups,consu,Nos,5000151515,,4.17,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1966,1769,51574,51574,,All Item Groups,consu,Nos,8901248451574,,13.29,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1964,1767,51611,51611,,All Item Groups,consu,Nos,8901248451611,,10.86,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1943,1746,51712,51712,,All Item Groups,consu,Nos,1929650451712,,2.91,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-988,785,5245,حبال مائي الأصلي,حبال مائي الأصلي,All Item Groups,consu,Nos,2145215245,1.88,0.83,0,1,1,1,1,backup,
-1129,930,5252,5252,,All Item Groups,consu,Nos,525252,,1.42,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1603,1418,52664,اساور فرفشة,اساور فرفشة منوعين,All Item Groups,consu,Nos,5252664,8.20,3.33,0,1,1,1,1,backup,
-1602,1417,52665,اساور فرفشة منوعين,اساور فرفشة,All Item Groups,consu,Nos,5252665,8.20,4.0,0,1,1,1,1,backup,
-1226,1008,5286415,تيجان كرستال,تيجان كرستال,All Item Groups,consu,Nos,52864154,5.70,2.67,0,1,1,1,1,backup,
-1225,1007,5286416,تيجان كرستال عرائسي,تيجان كرستال عرائسي,All Item Groups,consu,Nos,52864164,15.20,9.0,0,1,1,1,1,backup,
-1656,1471,53191,قطب طقم حلق مدور ملون,قطب طقم حلق مدور ملون,All Item Groups,consu,Nos,5319153191,8.20,5.0,0,1,1,1,1,backup,
-1130,931,5353,5353,,All Item Groups,consu,Nos,535353,,1.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1911,1714,54094,54094,,All Item Groups,consu,Nos,3760237854094,,24.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1392,1207,54168,مصحح حواجب نوت+ برافو ليدي,مصحح حواجب نوت+ برافو ليدي,All Item Groups,consu,Nos,6994626854168,10.58,6.5,0,1,1,1,1,backup,
-1131,932,5454,5454,,All Item Groups,consu,Nos,545454,,1.67,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1673,1488,55045,55045,,All Item Groups,consu,Nos,50455045,,0.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-872,705,552869,552869,,All Item Groups,consu,Nos,5528699123923,,2.3,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1680,1495,55421,55421,,All Item Groups,consu,Nos,5000655421,,0.36,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1132,933,5555,5555,,All Item Groups,consu,Nos,555555,,1.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1660,1475,5561,اساور كرستال مع الخاتم,اساور كرستال مع الخاتم,All Item Groups,consu,Nos,55615561,11.76,8.5,0,1,1,1,1,backup,
-1676,1491,5568,5568,,All Item Groups,consu,Nos,55685568,,1.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1651,1466,55794,طقم سلوس فراشة,طقم سلوس فراشة,All Item Groups,consu,Nos,5579455794,10.00,3.5,0,1,1,1,1,backup,
-1650,1465,5581,طقم بناتي قلب,طقم بناتي قلب,All Item Groups,consu,Nos,55815581,10.00,3.0,0,1,1,1,1,backup,
-1910,1713,56109,56109,,All Item Groups,consu,Nos,0506699456109,,34.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1753,1568,56210,56210,,All Item Groups,consu,Nos,1617951256210,,2.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1752,1567,56213,56213,,All Item Groups,consu,Nos,1617941256213,,2.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1663,1478,5640,اظافر صناعي علبة سداسي,اظافر صناعي علبة سداسي,All Item Groups,consu,Nos,56405640,4.65,2.75,0,1,1,1,1,backup,
-1133,934,5656,5656,,All Item Groups,consu,Nos,565656,,2.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1666,1481,56649,56649,,All Item Groups,consu,Nos,6985948556649,,1.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1554,1369,56787,56787,,All Item Groups,consu,Nos,897865456456787,,175.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1935,1738,57370,57370,,All Item Groups,consu,Nos,4342939057370,,2.67,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1965,1768,57374,57374,,All Item Groups,consu,Nos,8901248257374,,9.21,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1134,935,5757,5757,,All Item Groups,consu,Nos,575757,,3.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1236,1018,575742,امصار شعر,امصار شعر,All Item Groups,consu,Nos,5757525,1.10,0.71,0,1,1,1,1,backup,
-1653,1468,5762,اساور فان كليف,اساور فان كليف,All Item Groups,consu,Nos,57625762,10.00,5.5,0,1,1,1,1,backup,
-1670,1485,5786,5786,,All Item Groups,consu,Nos,57865786,,0.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1677,1492,5801,5801,,All Item Groups,consu,Nos,58015801,,0.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1700,1515,58174,58174,,All Item Groups,consu,Nos,9112912458174,,9.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1843,1646,58439,58439,,All Item Groups,consu,Nos,8992803658439,,6.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1135,936,5858,5858,,All Item Groups,consu,Nos,585858,,3.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1855,1658,5897,5897,,All Item Groups,consu,Nos,8888086785897,,13.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1136,937,5959,5959,,All Item Groups,consu,Nos,595959,,2.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1975,1778,59684,59684,,All Item Groups,consu,Nos,6291107459684,,15.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1934,1737,603132,603132,,All Item Groups,consu,Nos,6926633603132,,2.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1137,938,6060,6060,,All Item Groups,consu,Nos,606060,,3.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1370,1185,6096,اظافر شجلام,اظافر شجلام,All Item Groups,consu,Nos,6904587606096,4.65,2.92,0,1,1,1,1,backup,
-1437,1252,6116,6116,,All Item Groups,consu,Nos,100116116,,15.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1903,1706,61172,61172,,All Item Groups,consu,Nos,8809576261172,,40.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1377,1192,6145,سلوس بناتي كرزه,سلوس بناتي كرزه,All Item Groups,consu,Nos,45248796145,7.06,2.75,0,1,1,1,1,backup,
-1786,1601,6151,6151,,All Item Groups,consu,Nos,3499775636151,,8.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1148,949,6161,كفوف مطلي,كفوف مطلي,All Item Groups,consu,Nos,616161,10.00,7.0,0,1,1,1,1,backup,
-1826,1629,61616,61616,,All Item Groups,consu,Nos,4000161616,,5.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1668,1483,61616,61616,,All Item Groups,consu,Nos,5000161616,,2.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1762,1577,61839,61839,,All Item Groups,consu,Nos,6920250161839,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1149,950,6262,طقوم زركون خناق طو,طقوم زركون خناق طو,All Item Groups,consu,Nos,626262,10.00,6.0,0,1,1,1,1,backup,
-1443,1258,6265,6265,,All Item Groups,consu,Nos,243A16265,,35.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1297,1080,62662,ابيام فيونكة مع المراطق,ابيام فيونكة مع المراطق,All Item Groups,consu,Nos,662662662,2.35,1.5,0,1,1,1,1,backup,
-1552,1367,62898,62898,,All Item Groups,consu,Nos,156486456162898,,175.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1647,1462,63122,فرشم مكياج بيوتي,فرشم مكياج بيوتي,All Item Groups,consu,Nos,6952474163122,10.59,6.5,0,1,1,1,1,backup,
-1839,1642,63531,كلبس كرز  2,كلبس كرز  2,All Item Groups,consu,Nos,000000063531,2.35,1.67,0,1,1,1,1,backup,
-1150,951,6363,اساور زركون طوابق,اساور زركون طوابق,All Item Groups,consu,Nos,636363,6.00,3.0,0,1,1,1,1,backup,
-1442,1257,6377,6377,,All Item Groups,consu,Nos,100106377,,15.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1441,1256,6386,6386,,All Item Groups,consu,Nos,100106386,,20.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1444,1259,6400,6400,,All Item Groups,consu,Nos,100106400,,25.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1433,1248,6432,6432,,All Item Groups,consu,Nos,100106432,,35.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1432,1247,6437,6437,,All Item Groups,consu,Nos,100106437,,50.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1151,952,6464,طقوم زركون كرت اصفر,طقوم زركون كرت اصفر,All Item Groups,consu,Nos,646464,20.00,13.0,0,1,1,1,1,backup,
-1870,1673,6477,6477,,All Item Groups,consu,Nos,8809875456477,,52.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1152,953,6565,طقوم زركون كرت ازرق,طقوم زركون كرت ازرق,All Item Groups,consu,Nos,656565,20.00,13.0,0,1,1,1,1,backup,
-1153,954,6666,اساور استيل ماركة مع الخاتم,اساور استيل ماركة مع الخاتم,All Item Groups,consu,Nos,666666,10.00,5.0,0,1,1,1,1,backup,
-67,67,67,سلس,سلس,All Item Groups,consu,Nos,2225638789310,1.00,,1,1,1,0,1,backup,
-1845,1648,67122,67122,,All Item Groups,consu,Nos,6281006567122,,8.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1982,1785,67217,67217,,All Item Groups,consu,Nos,6291106067217,,8.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1981,1784,67224,67224,,All Item Groups,consu,Nos,6291106067224,,8.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1154,955,6767,باكت مسكرة رومنتك جديد,باكت مسكرة رومنتك جديد,All Item Groups,consu,Nos,6971204786110,0.00,2.92,0,1,1,1,1,backup,
-1555,1370,68160,68160,,All Item Groups,consu,Nos,6972943768160,,55.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1296,1079,6831,مورد يارا,مورد يارا,All Item Groups,consu,Nos,6957834806831,5.88,3.0,0,1,1,1,1,backup,
-1155,956,6868,باكت مسكرة سفن دي الأصلي,باكت مسكرة سفن دي الأصلي,All Item Groups,consu,Nos,6971204785984,0.00,2.29,0,1,1,1,1,backup,
-1269,1052,690442578301,690442578301,,All Item Groups,consu,Nos,6904425783019,,0.92,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1270,1053,694605123971,694605123971,,All Item Groups,consu,Nos,6946051239713,,0.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1232,1014,695657000888,نقش تاتو,نقش تاتو,All Item Groups,consu,Nos,6956570008882,2.35,1.0,0,1,1,1,1,backup,
-1156,957,6969,طقوم مطلي فرفشة,طقوم مطلي فرفشة,All Item Groups,consu,Nos,696969,15.20,9.0,0,1,1,1,1,backup,
-786,615,6972202211,اطواق راقي 8 اشكال 2,اطواق راقي 8 اشكال 2,All Item Groups,consu,Nos,697220221128,7.01,,0,1,1,1,1,backup,
-1892,1695,70009,70009,,All Item Groups,consu,Nos,8809416470009,,36.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1891,1694,70016,70016,,All Item Groups,consu,Nos,8809416470016,,36.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1157,958,7070,كماشات كرستال,كماشات كرستال,All Item Groups,consu,Nos,707070,5.88,2.33,0,1,1,1,1,backup,
-1944,1747,7079,7079,,All Item Groups,consu,Nos,9944185070797,,0.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-875,708,708,سلوس 1,كماشات 2,All Item Groups,consu,Nos,8459425957314,3.50,,0,1,1,1,1,backup,
-876,709,709,قباضات نسائي,قباضات نسائي,All Item Groups,consu,Nos,9502481758872,1.00,,0,1,1,1,1,backup,
-1438,1253,7117,7117,,All Item Groups,consu,Nos,100117117,,60.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1759,1574,71425,71425,,All Item Groups,consu,Nos,6912316171425,,2.02,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1827,1630,71717,71717,,All Item Groups,consu,Nos,4000171717,,5.4,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1669,1484,71717,71717,,All Item Groups,consu,Nos,5000171717,,3.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-885,718,718,قباضات نسائي,قباضات نسائي (نسخة),All Item Groups,consu,Nos,2043408271199,1.00,,0,1,1,1,1,backup,
-71,72,72,وهمي,طقم اطواق,All Item Groups,consu,Nos,1705217677777,1.00,,0,1,1,1,1,backup,
-1888,1691,7210,7210,,All Item Groups,consu,Nos,3337875597210,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1634,1449,721496,721496,,All Item Groups,consu,Nos,8410664651975,,16.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1635,1450,721497,721497,,All Item Groups,consu,Nos,1277080562172,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1633,1448,721501,721501,,All Item Groups,consu,Nos,3970357621500,,16.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1632,1447,721502,721502,,All Item Groups,consu,Nos,5256367739854,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1631,1446,721587,721587,,All Item Groups,consu,Nos,721587-3,,11.7,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1629,1444,721588,721588,,All Item Groups,consu,Nos,721588-2,,11.7,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1630,1445,721589,721589,,All Item Groups,consu,Nos,721589-2,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1637,1452,721592,721592,,All Item Groups,consu,Nos,3783284477894,,11.7,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-904,737,737,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,3867146993538,1.00,,0,1,1,1,1,backup,
-1624,1439,740404,740404,,All Item Groups,consu,Nos,0863765019720,,8.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1598,1413,741442,741442,,All Item Groups,consu,Nos,9808036205380,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1625,1440,741489,741489,,All Item Groups,consu,Nos,9975507493062,,8.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1597,1412,741501,741501,,All Item Groups,consu,Nos,7529067516208,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1592,1407,741975,741975,,All Item Groups,consu,Nos,5726738519106,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1595,1410,741983,741983,,All Item Groups,consu,Nos,7560980367263,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1586,1401,742024,742024,,All Item Groups,consu,Nos,4795293571059,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1596,1411,742028,742028,,All Item Groups,consu,Nos,1265128591369,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1581,1396,742226,742226,,All Item Groups,consu,Nos,9055740299062,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1583,1398,742579,742579,,All Item Groups,consu,Nos,7923884103502,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1591,1406,742786,742786,,All Item Groups,consu,Nos,3035411949676,,10.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1589,1404,742851,742851,,All Item Groups,consu,Nos,3497910689208,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1599,1414,742896,742896,,All Item Groups,consu,Nos,6072988649711,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1590,1405,742904,742904,,All Item Groups,consu,Nos,7997910438715,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1627,1442,742954,742954,,All Item Groups,consu,Nos,6497698312876,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1587,1402,743066,743066,,All Item Groups,consu,Nos,3591919882360,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1626,1441,743070,743070,,All Item Groups,consu,Nos,4853792486035,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1584,1399,743489,743489,,All Item Groups,consu,Nos,6725487120396,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1588,1403,743565,743565,,All Item Groups,consu,Nos,743565-2,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1594,1409,743600,743600,,All Item Groups,consu,Nos,743600-2,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1585,1400,743606,743606,,All Item Groups,consu,Nos,7176209262822,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1582,1397,743622,743622,,All Item Groups,consu,Nos,9160060587857,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1593,1408,744107,744107,,All Item Groups,consu,Nos,7279031986079,,12.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1638,1453,750710,750710,,All Item Groups,consu,Nos,3149990212653,,48.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1641,1456,750711,750711,,All Item Groups,consu,Nos,8374528204878,,48.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1639,1454,750712,750712,,All Item Groups,consu,Nos,1157508895719,,24.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1642,1457,750713,750713,,All Item Groups,consu,Nos,9934886693616,,160.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1640,1455,750714,750714,,All Item Groups,consu,Nos,7543289076746,,24.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1292,1075,75255,غراء اظافر,غراء اظافر,All Item Groups,consu,Nos,6997524675255,1.88,1.0,0,1,1,1,1,backup,
-1884,1687,77092,77092,,All Item Groups,consu,Nos,3401399277092,,57.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1838,1641,77454,اقلام كحل اسود طلعة,اقلام كحل اسود طلعة,All Item Groups,consu,Nos,8948490577454,2.35,0.75,0,1,1,1,1,backup,
-1972,1775,78236,78236,,All Item Groups,consu,Nos,8901248478236,,6.43,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1781,1596,78252,78252,,All Item Groups,consu,Nos,6935356578252,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1767,1582,78813,78813,,All Item Groups,consu,Nos,6912316178813,,1.83,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1722,1537,790778,790778,,All Item Groups,consu,Nos,6901790778022,,1.39,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1720,1535,790794,790794,,All Item Groups,consu,Nos,5671382752044,,9.46,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1643,1458,790800,790800,,All Item Groups,consu,Nos,9371005778074,,320.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-776,605,790998,طقم اكسسوار علب هدايا 7 موديل 2,طقم اكسسوار علب هدايا 7 موديل 2,All Item Groups,consu,Nos,6988757909989,0.00,3.83,0,1,1,1,1,backup,
-1721,1536,791052,791052,,All Item Groups,consu,Nos,6920257910522,,1.04,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1743,1558,791067,791067,,All Item Groups,consu,Nos,6920257910676,,4.06,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1723,1538,791097,791097,,All Item Groups,consu,Nos,6920257910973,,4.48,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1657,1472,8.2352,اساور زركون بناتي,اساور زركون بناتي مع الخاتم,All Item Groups,consu,Nos,8.23528.2352,8.20,6.0,0,1,1,1,1,backup,
-1846,1649,80088,80088,,All Item Groups,consu,Nos,7160934480088,,2.24,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1691,1506,809129,809129,,All Item Groups,consu,Nos,6930274809129,,23.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1439,1254,8118,8118,,All Item Groups,consu,Nos,100118118,,80.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1828,1631,81818,81818,,All Item Groups,consu,Nos,4000181818,,2.1,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1672,1487,81818,81818,,All Item Groups,consu,Nos,5000181818,,1.92,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1899,1702,81947,81947,,All Item Groups,consu,Nos,8999999581947,,13.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1748,1563,82518,82518,,All Item Groups,consu,Nos,6935356582518,,4.16,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1397,1212,83232,83232,,All Item Groups,consu,Nos,6971204783232,,22.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1765,1580,83919,83919,,All Item Groups,consu,Nos,6925213883919,,1.35,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1852,1655,8407,8407,,All Item Groups,consu,Nos,8809426813865,,7.26,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1851,1654,84072,84072,,All Item Groups,consu,Nos,6041216184072,,6.12,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1391,1206,84128,مصحح حواجب أبو جهة,مصحح حواجب أبو جهة,All Item Groups,consu,Nos,6933495884128,5.80,21.0,0,1,1,1,1,backup,
-1909,1712,84535,84535,,All Item Groups,consu,Nos,772618084535,,50.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1865,1668,84810,84810,,All Item Groups,consu,Nos,6970873984810,,8.66,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1940,1743,850038,850038,,All Item Groups,consu,Nos,6972497850038,,6.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1546,1361,85476,85476,,All Item Groups,consu,Nos,6922965185476,,110.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1580,1395,8555,8555,,All Item Groups,consu,Nos,5558888555,,1.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1295,1078,86886,سلوس بناتي,سلوس بناتي,All Item Groups,consu,Nos,886886886,10.59,5.0,0,1,1,1,1,backup,
-1881,1684,87230,87230,,All Item Groups,consu,Nos,7702018587230,,33.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1550,1365,87307,87307,,All Item Groups,consu,Nos,5060518887307,,162.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1757,1572,87621,87621,,All Item Groups,consu,Nos,6912191387621,,4.06,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1758,1573,88015,88015,,All Item Groups,consu,Nos,6925261388015,,1.35,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1761,1576,88128,88128,,All Item Groups,consu,Nos,6900001388128,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1760,1575,88289,88289,,All Item Groups,consu,Nos,6900001388289,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1755,1570,88422,88422,,All Item Groups,consu,Nos,6912311388422,,1.38,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1906,1709,90311,90311,,All Item Groups,consu,Nos,769915190311,,35.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1694,1509,90356,90356,,All Item Groups,consu,Nos,6971260890356,,2.83,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1908,1711,90670,90670,,All Item Groups,consu,Nos,769915190670,,42.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1553,1368,90715,90715,,All Item Groups,consu,Nos,6922965190715,,60.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1557,1372,90784,90784,,All Item Groups,consu,Nos,6922965190784,,30.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1396,1211,91000,91000,,All Item Groups,consu,Nos,6970975191000,,28.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1445,1260,9119,9119,,All Item Groups,consu,Nos,100119119,,22.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1883,1686,91230,91230,,All Item Groups,consu,Nos,033200191230,,6.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1686,1501,91877,روج سائل 2113,روج سائل 2113,All Item Groups,consu,Nos,3194500091877,4.65,1.67,0,1,1,1,1,backup,
-1829,1632,91919,91919,,All Item Groups,consu,Nos,4000191919,,9.12,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1858,1661,9281,9281,,All Item Groups,consu,Nos,8999777009281,,5.4,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1878,1681,93583,93583,,All Item Groups,consu,Nos,4550516493583,,30.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1902,1705,93831,93831,,All Item Groups,consu,Nos,8809305993831,,38.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1871,1674,94026,94026,,All Item Groups,consu,Nos,3600523494026,,35.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1698,1513,94138,94138,,All Item Groups,consu,Nos,9767013694138,,8.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1273,1056,950777999799,950777999799,,All Item Groups,consu,Nos,9507779997992,,2.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1989,1792,95214,95214,,All Item Groups,consu,Nos,040232095214,,36.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1693,1508,95776,95776,,All Item Groups,consu,Nos,3506822095776,,2.75,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1549,1364,96161,96161,,All Item Groups,consu,Nos,6922446096161,,130.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1687,1502,96565,جلوس جف جيرل 2093,جلوس جف جيرل 2093,All Item Groups,consu,Nos,03097187,4.65,2.0,0,1,1,1,1,backup,
-1877,1680,97180,97180,,All Item Groups,consu,Nos,3337875597180,,45.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1873,1676,97388,كريم سرافي 454ملي,كريم سرافي 454ملي,All Item Groups,consu,Nos,3337875597388,70.00,60.0,0,1,1,1,1,backup,
-1785,1600,9801,9801,,All Item Groups,consu,Nos,6920250649801,,1.35,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1272,1055,9997991,9997991,,All Item Groups,consu,Nos,9507779997991,,1.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1185,986,AS-120120,طقوم استيل خناق,طقوم استيل خناق,All Item Groups,consu,Nos,120120120,10.00,5.74,0,1,1,1,1,backup,
-1184,985,AS-221221,تيجان متحرك زركون,تيجان متحرك زركون,All Item Groups,consu,Nos,221221221,15.20,8.26,0,1,1,1,1,backup,
-1187,988,AS-3215,AS-3215,,All Item Groups,consu,Nos,32153215,,1.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1189,990,AS-4520-2,AS-4520-2,,All Item Groups,consu,Nos,4520245202,,4.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1190,991,AS-4932,AS-4932,,All Item Groups,consu,Nos,49324932,,2.92,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1188,989,AS-5046,AS-5046,,All Item Groups,consu,Nos,50465046,,5.5,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1186,987,AS-513513,AS-513513,,All Item Groups,consu,Nos,513513513,,7.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1191,992,AS-5348,AS-5348,,All Item Groups,consu,Nos,53485348,,2.67,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1192,993,AS-5349,AS-5349,,All Item Groups,consu,Nos,125125125,,1.6,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1182,983,AS-552552,كواسر كبير,كواسر ابو ريش,All Item Groups,consu,Nos,552552552,5.85,3.33,0,1,1,1,1,backup,
-1183,984,AS-554554,ابيام فراشات,ابيام فراشات,All Item Groups,consu,Nos,554554554,4.70,1.5,0,1,1,1,1,backup,
-1193,994,AS-5654,AS-5654,,All Item Groups,consu,Nos,56545654,,2.08,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-906,739,B22939,B22939,,All Item Groups,consu,Nos,B293998,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-630,459,B292217,B292217,,All Item Groups,consu,Nos,B292217,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-627,456,B292667,شنطة نسائية شد 36,شنطة نسائية شد 36,All Item Groups,consu,Nos,B292667,0.00,46.0,0,1,1,1,1,backup,
-657,486,B292743,شنطة نسائية شد 24,شنطة نسائية شد 24,All Item Groups,consu,Nos,B292743,0.00,46.0,0,1,1,1,1,backup,
-628,457,B292928,شنط نسائي,شنط نسائي,All Item Groups,consu,Nos,B292928,0.00,40.25,0,1,1,1,1,backup,
-662,491,B292960,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B292960,0.00,21.28,0,1,1,1,1,backup,
-729,558,B292962,شنط بناتي شد 60,شنط بناتي شد 60,All Item Groups,consu,Nos,B292962,0.00,21.28,0,1,1,1,1,backup,
-722,551,B292968,شنط بناتي شد 60 حبه,شنط بناتي شد 60 حبه,All Item Groups,consu,Nos,B292968,0.00,21.28,0,1,1,1,1,backup,
-675,504,B292970,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B292970,0.00,21.28,0,1,1,1,1,backup,
-721,550,B292971,شنط بناتي شد 60 حبه,شنط بناتي شد 60 حبه,All Item Groups,consu,Nos,B292971,0.00,21.28,0,1,1,1,1,backup,
-723,552,B292976,شنط اطفال,شنط اطفال,All Item Groups,consu,Nos,B292976,0.00,20.7,0,1,1,1,1,backup,
-674,503,B292981,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B292981,0.00,21.28,0,1,1,1,1,backup,
-661,490,B292986,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B292986,0.00,21.28,0,1,1,1,1,backup,
-660,489,B292991,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B292991,0.00,21.28,0,1,1,1,1,backup,
-726,555,B293001,شنط بناتي شد 60,شنط بناتي شد 60,All Item Groups,consu,Nos,B293001,0.00,21.28,0,1,1,1,1,backup,
-666,495,B293012,شنط اطفال,شنط اطفال,All Item Groups,consu,Nos,B293012,0.00,20.7,0,1,1,1,1,backup,
-670,499,B293016,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B293016,0.00,21.28,0,1,1,1,1,backup,
-733,562,B293017,شنط بناتي شد 60 حبه,شنط بناتي شد 60 حبه,All Item Groups,consu,Nos,B293017,0.00,21.28,0,1,1,1,1,backup,
-727,556,B293018,شنط اطفال,شنط اطفال,All Item Groups,consu,Nos,B293018,0.00,20.7,0,1,1,1,1,backup,
-668,497,B293020,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B293020,0.00,21.28,0,1,1,1,1,backup,
-671,500,B293025,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B293025,0.00,21.28,0,1,1,1,1,backup,
-669,498,B293028,شنط اطفال,شنط اطفال,All Item Groups,consu,Nos,B293028,0.00,20.7,0,1,1,1,1,backup,
-667,496,B293035,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B293035,0.00,21.28,0,1,1,1,1,backup,
-672,501,B293038,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B293038,0.00,21.28,0,1,1,1,1,backup,
-725,554,B293040,شنط بناتي شد 60 حبه,شنط بناتي شد 60 حبه,All Item Groups,consu,Nos,B293040,0.00,21.28,0,1,1,1,1,backup,
-735,564,B293044,شنط بناتي شد 60 حبه,شنط بناتي شد 60 حبه,All Item Groups,consu,Nos,B293044,0.00,21.28,0,1,1,1,1,backup,
-664,493,B293048,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B293048,0.00,21.28,0,1,1,1,1,backup,
-673,502,B293054,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B293054,0.00,21.28,0,1,1,1,1,backup,
-663,492,B293058,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B293058,0.00,21.28,0,1,1,1,1,backup,
-665,494,B293061,شنط بناتي شد 60 حبة,شنط بناتي شد 60 حبة,All Item Groups,consu,Nos,B293061,0.00,21.28,0,1,1,1,1,backup,
-728,557,B293063,شنط بناتي شد 60,شنط بناتي شد 60,All Item Groups,consu,Nos,B293063,0.00,21.28,0,1,1,1,1,backup,
-731,560,B293064,شنط بناتي شد 60,شنط بناتي شد 60,All Item Groups,consu,Nos,B293064,0.00,21.28,0,1,1,1,1,backup,
-724,553,B293074,شنط بناتي شد 60,شنط بناتي شد 60,All Item Groups,consu,Nos,B293074,0.00,21.28,0,1,1,1,1,backup,
-732,561,B293084,شنط اطفال,شنط اطفال,All Item Groups,consu,Nos,B293084,0.00,20.7,0,1,1,1,1,backup,
-734,563,B293098,شنط اطفال,شنط اطفال,All Item Groups,consu,Nos,B293098,0.00,20.7,0,1,1,1,1,backup,
-730,559,B293101,شنط بناتي شد 60 حبه,شنط بناتي شد 60 حبه,All Item Groups,consu,Nos,B293101,0.00,21.28,0,1,1,1,1,backup,
-622,451,B293357,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293357,0.00,46.0,0,1,1,1,1,backup,
-634,463,B293397,شنط نسائي,شنط نسائي,All Item Groups,consu,Nos,B293397,0.00,46.0,0,1,1,1,1,backup,
-656,485,B293477,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293477,0.00,46.0,0,1,1,1,1,backup,
-617,446,B293499,شنط نسائي,شنط نسائي,All Item Groups,consu,Nos,B293499,0.00,40.25,0,1,1,1,1,backup,
-894,727,B2935,B2935,,All Item Groups,consu,Nos,B293561,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-899,732,B2935,شنطة نسائي,شنطة نسائي,All Item Groups,consu,Nos,B293591,0.00,40.25,0,1,0,1,1,backup,
-616,445,B293563,شنط نسائي,شنط نسائي,All Item Groups,consu,Nos,B293563,0.00,46.0,0,1,1,1,1,backup,
-631,460,B293583,B293583,,All Item Groups,consu,Nos,B293583,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-658,487,B293595,شنط نسائي,شنط نسائي,All Item Groups,consu,Nos,B293595,0.00,46.0,0,1,1,1,1,backup,
-901,734,B2936,شنط نسائي,شنط نسائي,All Item Groups,consu,Nos,B293652,0.00,46.0,0,1,1,1,1,backup,
-620,449,B293600,شنط نسائي,شنط نسائي,All Item Groups,consu,Nos,B293600,0.00,46.0,0,1,1,1,1,backup,
-632,461,B293602,B293602,,All Item Groups,consu,Nos,B293602,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-659,488,B293610,شنطة يد نسائي,شنطة يد نسائي,All Item Groups,consu,Nos,B293610,0.00,25.3,0,1,1,1,1,backup,
-877,710,B29362,شنط نسائي,شنط نسائي,All Item Groups,consu,Nos,B293621,0.00,46.0,0,1,1,1,1,backup,
-44,44,B293621,شنط نسائي,,Goods,consu,Nos,1101201921565,0.00,40.0,0,1,1,1,1,backup,
-907,740,B29364,B29364,,All Item Groups,consu,Nos,B293641,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-625,454,B293640,شنط نسائي,شنط نسائي,All Item Groups,consu,Nos,B293640,0.00,46.0,0,1,1,1,1,backup,
-629,458,B293653,B293653,,All Item Groups,consu,Nos,B293653,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-624,453,B293658,شنطة يد نسائي,شنطة يد نسائي,All Item Groups,consu,Nos,B293658,0.00,46.0,0,1,1,1,1,backup,
-633,462,B293663,شنط نسائي,شنط نسائي,All Item Groups,consu,Nos,B293663,0.00,46.0,0,1,1,1,1,backup,
-895,728,B2937,B2937,,All Item Groups,consu,Nos,B293719,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-909,742,B29371,B29371,,All Item Groups,consu,Nos,B293717,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-70,70,B29371790,شنطة  نسائي,شنطة  نسائي,All Item Groups,consu,Nos,6921530096278,0.00,70.0,1,1,1,0,1,backup,
-898,731,B2939,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293908,0.00,40.25,0,1,1,1,1,backup,
-892,725,B2939,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293919,0.00,40.25,0,1,1,1,1,backup,
-900,733,B2939,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293954,0.00,40.25,0,1,1,1,1,backup,
-896,729,B2939,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293969,0.00,34.5,0,1,1,1,1,backup,
-903,736,B2939,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293975,0.00,40.25,0,1,1,1,1,backup,
-891,724,B2939,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293984,0.00,40.25,0,1,1,1,1,backup,
-893,726,B2939,B2939,,All Item Groups,consu,Nos,B293996,,40.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-905,738,B29390,B29390,,All Item Groups,consu,Nos,B293907,,40.25,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-621,450,B293913,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293913,0.00,40.25,0,1,1,1,1,backup,
-619,448,B293938,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293938,0.00,46.0,0,1,1,1,1,backup,
-890,723,B29394,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293946,0.00,40.25,0,1,1,1,1,backup,
-908,741,B29398,B29398,,All Item Groups,consu,Nos,B293985,,46.0,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-626,455,B293983,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293983,0.00,40.25,0,1,1,1,1,backup,
-902,735,B29399,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293995,0.00,40.25,0,1,1,1,1,backup,
-623,452,B293990,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B293990,0.00,40.25,0,1,1,1,1,backup,
-635,464,B298080,شنطة نسائية,شنطة نسائية,All Item Groups,consu,Nos,B298080,0.00,46.0,0,1,1,1,1,backup,
-618,447,B298160,شنط يد نسائي,شنط يد نسائي,All Item Groups,consu,Nos,B298160,0.00,46.0,0,1,1,1,1,backup,
-68,68,BHS546,سلس مع الحلق,سلس مع الحلق,All Item Groups,consu,Nos,5934782049191,1.00,,1,1,1,0,1,backup,
-914,747,COMM,Communication,التواصل,Expenses,service,Nos,,1.00,,0,0,1,1,1,backup,
-915,748,EXP_GEN,Expenses,النفقات,Expenses,service,Nos,,1.00,,0,1,1,1,1,backup,
-910,743,FOOD,Meals,وجبات طعام,Expenses,service,Nos,,1.00,,0,0,1,1,1,backup,
-913,746,GIFT,Gifts,الهدايا,Expenses,service,Nos,,1.00,,0,0,1,1,1,backup,
-912,745,MIL,Mileage,المسافات المقطوعة,Expenses,service,Nos,,1.00,1.0,0,0,1,1,1,backup,
-1791,1606,PH-272,PH-272,,All Item Groups,consu,Nos,6971606202720,,1.67,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1456,1271,S110825,صندل نسائي مقاس 36-41 (شد 24),صندل نسائي مقاس 36-41 (شد 24),All Item Groups,consu,Nos,S110825,23.53,17.42,0,1,1,1,1,backup,
-1455,1270,S110828,صندل نسائي مقاس 36-41 (شد 24),صندل نسائي مقاس 36-41 (شد 24),All Item Groups,consu,Nos,S110828,23.53,17.42,0,1,1,1,1,backup,
-593,422,S160005,S160005,,All Item Groups,consu,Nos,ٍ160005,,15.33,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-595,424,S160008,S160008,,All Item Groups,consu,Nos,ٍ160008,,15.33,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-1458,1273,S160011,صندل نسائي م36-41 (شد 24),صندل نسائي م36-41 (شد 24),All Item Groups,consu,Nos,S160011,23.53,17.42,0,1,1,1,1,backup,
-591,420,S160014,صندل نسائي م36-41ش24,صندل نسائي م36-41ش24,All Item Groups,consu,Nos,ٍ160014,0.00,15.33,0,1,1,1,1,backup,
-594,423,S160016,S160016,,All Item Groups,consu,Nos,ٍ160016,,15.33,0,1,1,1,0,backup,Template row missing in dump; selling rate/name/group use fallbacks where needed
-592,421,S160018,صندل نسائي م36-41ش24,صندل نسائي م36-41ش24,All Item Groups,consu,Nos,ٍ160018,0.00,15.33,0,1,1,1,1,backup,
-1457,1272,S160019,صندل نسائي م36-41 (شد 24),صندل نسائي م36-41 (شد 24),All Item Groups,consu,Nos,S160019,23.53,17.42,0,1,1,1,1,backup,
-1461,1276,S210212,صندل نسائي مقاس 36-41 (شد 24),صندل نسائي مقاس 36-41 (شد 24),All Item Groups,consu,Nos,6900452102120,23.53,17.42,0,1,1,1,1,backup,
-1459,1274,S210216,صندل نسائي مقاس 36-41 (شد 24),صندل نسائي مقاس 36-41 (شد 24),All Item Groups,consu,Nos,6900452102168,23.53,21.25,0,1,1,1,1,backup,
-1460,1275,S210301,اسبورات نسائيه م36-41 (شد 24),اسبورات نسائيه م36-41 (شد 24),All Item Groups,consu,Nos,6900212103015,47.06,25.08,0,1,1,1,1,backup,
-590,419,S210305,اسبورات نسائيه م36-41ش24,اسبورات نسائيه م36-41ش24,All Item Groups,consu,Nos,6900212103053,0.00,33.54,0,1,1,1,1,backup,
-589,418,S210307,اسبوات نسائيه م36-41ش24,اسبوات نسائيه م36-41ش24,All Item Groups,consu,Nos,6900212103077,50.00,33.54,0,1,1,1,1,backup,
-587,416,S210313,سبورات نسائيه م36-41ش24,سبورات نسائيه م36-41ش24,All Item Groups,consu,Nos,6900212103138,0.00,33.54,0,1,1,1,1,backup,
-588,417,S210315,اسبورات نسائي م 36-41ش24,اسبورات نسائي م 36-41ش24,All Item Groups,consu,Nos,6900212103152,0.00,28.75,0,1,1,1,1,backup,
-1529,1344,SQ9235,ميداليات دبدوب,ميداليات دبدوب,All Item Groups,consu,Nos,6688892350003,3.53,2.08,0,1,1,1,1,backup,
-1,1,TIPS,Tips,تلميحات,Services,consu,Nos,,1.00,,1,1,1,0,1,backup,
-911,744,TRANS & ACC,Travel & Accommodation,السفر والإقامة,Expenses,service,Nos,,1.00,,0,0,1,1,1,backup,
+Default Unit of Measure,Item Code,Item Group,Item Name,Maintain Stock,Opening Stock,Brand,Shelf Life In Days,End of Life,Has Expiry Date,Barcode (Barcodes),Re-order Qty (Reorder level based on Warehouse),UOM (UOMs),Default Price List (Item Defaults)
+Nos,3636,اساور استيل,اساور استيل شانل,1,0,شانل,0,2099-12-31,0,363636,,Nos,
+Nos,6666,اساور استيل,اساور استيل ماركة مع الخاتم,1,0,,0,2099-12-31,0,666666,,Nos,
+Nos,2525,اساور زركون,اساور زركون مع الخاتم ملون,1,0,,0,2099-12-31,0,252525,,Nos,
+Nos,6363,اساور زركون,اساور زركون طوابق,1,0,,0,2099-12-31,0,636363,,Nos,
+Nos,8.2352,اساور زركون,اساور زركون بناتي,1,0,,0,2099-12-31,0,8.23528.2352,,Nos,
+Nos,5561,اساور كرستال,اساور كرستال مع الخاتم,1,0,,0,2099-12-31,0,55615561,,Nos,
+Nos,113135,اطواق بالحبة,اطواق فيونكه 3 حبه كرت 8 شكل,1,0,,0,2099-12-31,0,6220221131350,,Nos,
+Nos,113317,اطواق بالحبة,اطواق راقي 9 موديل 6/9,1,0,,0,2099-12-31,0,6972202211284,,Nos,
+Nos,113341,اطواق بالحبة,اطواق صوف 2 حبه كرت 6 شكل,1,0,,0,2099-12-31,0,6983521875422,,Nos,
+Nos,113342,اطواق بالحبة,اطواق قماش 3 حبه كرت 8 موديل,1,0,,0,2099-12-31,0,6980056655680,,Nos,
+Nos,113345,اطواق بالحبة,اطواق لولو 2 حبه كرت 7 موديل,1,0,,0,2099-12-31,0,6913711133452,,Nos,
+Nos,113390,اطواق بالحبة,اطواق شتوي عدد 4 شكل 3,1,0,,0,2099-12-31,0,6920240928015,,Nos,
+Nos,6972202211,اطواق بالحبة,اطواق راقي 8 اشكال 2,1,0,,0,2099-12-31,0,697220221128,,Nos,
+Nos,00020,اكسسوارات,00020,1,0,,0,2099-12-31,0,8904047600020,,Nos,
+Nos,003-4560,اكسسوارات,003-4560,1,0,,0,2099-12-31,0,6288002810733,,Nos,
+Nos,003-4561,اكسسوارات,003-4561,1,0,,0,2099-12-31,0,6288002810740,,Nos,
+Nos,003-4562,اكسسوارات,003-4562,1,0,,0,2099-12-31,0,6288002810757,,Nos,
+Nos,003-4563,اكسسوارات,003-4563,1,0,,0,2099-12-31,0,6288002810764,,Nos,
+Nos,003-4564,اكسسوارات,003-4564,1,0,,0,2099-12-31,0,6288002810771,,Nos,
+Nos,003-4565,اكسسوارات,003-4565,1,0,,0,2099-12-31,0,6288002811457,,Nos,
+Nos,003-4566,اكسسوارات,003-4566,1,0,,0,2099-12-31,0,6288002811471,,Nos,
+Nos,003-4568,اكسسوارات,003-4568,1,0,,0,2099-12-31,0,6288002811488,,Nos,
+Nos,003-4570,اكسسوارات,003-4570,1,0,,0,2099-12-31,0,6288002811440,,Nos,
+Nos,01111,اكسسوارات,حزامات عريض,1,0,,0,2099-12-31,0,50001111,,Nos,
+Nos,01111,اكسسوارات,حزامات جنيهات صغير,1,0,,0,2099-12-31,0,50002331,,Nos,
+Nos,01149,اكسسوارات,01149,1,0,,0,2099-12-31,0,4000196901149,,Nos,
+Nos,01163,اكسسوارات,01163,1,0,,0,2099-12-31,0,4000196901163,,Nos,
+Nos,01187,اكسسوارات,01187,1,0,,0,2099-12-31,0,4000196901187,,Nos,
+Nos,01289,اكسسوارات,01289,1,0,,0,2099-12-31,0,5017007601289,,Nos,
+Nos,0285425,اكسسوارات,0285425,1,0,,0,2099-12-31,0,3014260285425,,Nos,
+Nos,0351,اكسسوارات,0351,1,0,,0,2099-12-31,0,010181040351,,Nos,
+Nos,04736,اكسسوارات,04736,1,0,,0,2099-12-31,0,077043104736,,Nos,
+Nos,060524,اكسسوارات,060524,1,0,,0,2099-12-31,0,6926770577150,,Nos,
+Nos,064-7,اكسسوارات,064-7,1,0,,0,2099-12-31,0,6971606200641,,Nos,
+Nos,06661,اكسسوارات,اساور رجالي جلد,1,0,,0,2099-12-31,0,2580607306661,,Nos,
+Nos,06732,اكسسوارات,سريوم اكليل الجبل,1,0,,0,2099-12-31,0,854102006732,,Nos,
+Nos,08663,اكسسوارات,08663,1,0,,0,2099-12-31,0,6912347908663,,Nos,
+Nos,09276,اكسسوارات,09276,1,0,,0,2099-12-31,0,6923656109276,,Nos,
+Nos,10004,اكسسوارات,10004,1,0,,0,2099-12-31,0,540010004,,Nos,
+Nos,10110,اكسسوارات,10110,1,0,,0,2099-12-31,0,110110110,,Nos,
+Nos,10111,اكسسوارات,10111,1,0,,0,2099-12-31,0,110110111,,Nos,
+Nos,10112,اكسسوارات,10112,1,0,,0,2099-12-31,0,110110112,,Nos,
+Nos,10113,اكسسوارات,10113,1,0,,0,2099-12-31,0,110110113,,Nos,
+Nos,10114,اكسسوارات,10114,1,0,,0,2099-12-31,0,110110114,,Nos,
+Nos,10115,اكسسوارات,10115,1,0,,0,2099-12-31,0,110110115,,Nos,
+Nos,10116,اكسسوارات,10116,1,0,,0,2099-12-31,0,110110116,,Nos,
+Nos,10117,اكسسوارات,10117,1,0,,0,2099-12-31,0,110110117,,Nos,
+Nos,10118,اكسسوارات,10118,1,0,,0,2099-12-31,0,110110118,,Nos,
+Nos,10119,اكسسوارات,10119,1,0,,0,2099-12-31,0,110110119,,Nos,
+Nos,10122,اكسسوارات,10122,1,0,,0,2099-12-31,0,110110122,,Nos,
+Nos,10133,اكسسوارات,10133,1,0,,0,2099-12-31,0,6920257910133,,Nos,
+Nos,1014,اكسسوارات,1014,1,0,,0,2099-12-31,0,3846441975494,,Nos,
+Nos,1014,اكسسوارات,1014,1,0,,0,2099-12-31,0,6971606210145,,Nos,
+Nos,1016A,اكسسوارات,1016A,1,0,,0,2099-12-31,0,2282471632685,,Nos,
+Nos,1017,اكسسوارات,1017,1,0,,0,2099-12-31,0,5572616423399,,Nos,
+Nos,1017A,اكسسوارات,1017A,1,0,,0,2099-12-31,0,6971606210176,,Nos,
+Nos,1018,اكسسوارات,1018,1,0,,0,2099-12-31,0,18260513,,Nos,
+Nos,10183,اكسسوارات,10183,1,0,,0,2099-12-31,0,3944841810183,,Nos,
+Nos,10188,اكسسوارات,10188,1,0,,0,2099-12-31,0,6920257910188,,Nos,
+Nos,10323,اكسسوارات,اساور كف,1,0,,0,2099-12-31,0,7998194610323,,Nos,
+Nos,1036,اكسسوارات,شفرات حواجب فلمنجو,1,0,فلمنجو,0,2099-12-31,0,4902470171036,,Nos,
+Nos,10379,اكسسوارات,10379,1,0,,0,2099-12-31,0,6947247910379,,Nos,
+Nos,10430,اكسسوارات,10430,1,0,,0,2099-12-31,0,6920257910430,,Nos,
+Nos,10447,اكسسوارات,10447,1,0,,0,2099-12-31,0,6920257910447,,Nos,
+Nos,10485,اكسسوارات,10485,1,0,,0,2099-12-31,0,6920257910485,,Nos,
+Nos,10539,اكسسوارات,10539,1,0,,0,2099-12-31,0,6920257910539,,Nos,
+Nos,105392,اكسسوارات,105392,1,0,,0,2099-12-31,0,8998866105392,,Nos,
+Nos,10540,اكسسوارات,10540,1,0,,0,2099-12-31,0,5395173310540,,Nos,
+Nos,10584,اكسسوارات,10584,1,0,,0,2099-12-31,0,6920257910584,,Nos,
+Nos,10591,اكسسوارات,10591,1,0,,0,2099-12-31,0,6920257910591,,Nos,
+Nos,10607,اكسسوارات,10607,1,0,,0,2099-12-31,0,6920257910607,,Nos,
+Nos,10683,اكسسوارات,10683,1,0,,0,2099-12-31,0,6920257910683,,Nos,
+Nos,10922,اكسسوارات,10922,1,0,,0,2099-12-31,0,6979077910922,,Nos,
+Nos,10966,اكسسوارات,10966,1,0,,0,2099-12-31,0,6920257910966,,Nos,
+Nos,109800,اكسسوارات,109800,1,0,,0,2099-12-31,0,6958376109800,,Nos,
+Nos,11013,اكسسوارات,11013,1,0,,0,2099-12-31,0,11011013,,Nos,
+Nos,11024,اكسسوارات,11024,1,0,,0,2099-12-31,0,6920257911024,,Nos,
+Nos,11031,اكسسوارات,11031,1,0,,0,2099-12-31,0,6920257911031,,Nos,
+Nos,11083,اكسسوارات,11083,1,0,,0,2099-12-31,0,3337872411083,,Nos,
+Nos,1110,اكسسوارات,1110,1,0,,0,2099-12-31,0,10011101110,,Nos,
+Nos,11111,اكسسوارات,11111,1,0,,0,2099-12-31,0,4000111111,,Nos,
+Nos,1111111111,اكسسوارات,محمد,1,0,,0,2099-12-31,0,1111111111111111111111,,Nos,
+Nos,113360,اكسسوارات,ربطة جبين عريض 10 موديل 9/3/7,1,0,,0,2099-12-31,0,6985765322168,,Nos,
+Nos,113371,اكسسوارات,طقم كلبس مع ربطه 10 موديل 2/3,1,0,,0,2099-12-31,0,6920251133712,,Nos,
+Nos,113388,اكسسوارات,طوق بندانه 11 موديل 5/8,1,0,,0,2099-12-31,0,6985632932148,,Nos,
+Nos,113391,اكسسوارات,ربطة شتوي 2 حبة كرت عدد 4 اشكال 1/3,1,0,,0,2099-12-31,0,6923654822139,,Nos,
+Nos,1161,اكسسوارات,باكت مزيل مناكير,1,0,,0,2099-12-31,0,6946051201161,,Nos,
+Nos,11672,اكسسوارات,11672,1,0,,0,2099-12-31,0,6942257011672,,Nos,
+Nos,1187,اكسسوارات,حامورة سحري,1,0,,0,2099-12-31,0,6972196671187,,Nos,
+Nos,1193,اكسسوارات,هامات رأس بناتي,1,0,,0,2099-12-31,0,61193,,Nos,
+Nos,1198,اكسسوارات,1198,1,0,,0,2099-12-31,0,6971606511983,,Nos,
+Nos,1198A,اكسسوارات,1198A,1,0,,0,2099-12-31,0,6971606210169,,Nos,
+Nos,11991,اكسسوارات,11991,1,0,,0,2099-12-31,0,3337872411991,,Nos,
+Nos,1200B,اكسسوارات,1200B,1,0,,0,2099-12-31,0,6971606512003,,Nos,
+Nos,12121,اكسسوارات,12121,1,0,,0,2099-12-31,0,4000212121,,Nos,
+Nos,12121,اكسسوارات,12121,1,0,,0,2099-12-31,0,5000212121,,Nos,
+Nos,12130,اكسسوارات,12130,1,0,,0,2099-12-31,0,12130130,,Nos,
+Nos,12456987541180,اكسسوارات,ستن ليكر موديل,0,0,,0,2099-12-31,0,3944985096139,,Nos,
+Nos,125486255552,اكسسوارات,125486255552,1,0,,0,2099-12-31,0,12548625555211,,Nos,
+Nos,12861,اكسسوارات,12861,1,0,,0,2099-12-31,0,9248915212861,,Nos,
+Nos,13131,اكسسوارات,13131,1,0,,0,2099-12-31,0,4000313131,,Nos,
+Nos,13316,اكسسوارات,13316,1,0,,0,2099-12-31,0,6905624813316,,Nos,
+Nos,13352,اكسسوارات,13352,1,0,,0,2099-12-31,0,6973390713352,,Nos,
+Nos,138459,اكسسوارات,تيجان,1,0,,0,2099-12-31,0,1344907138459,,Nos,
+Nos,138667,اكسسوارات,مطاط برميل جامبو 5 شكل شد 10د 1/4,1,0,,0,2099-12-31,0,6935356575015,,Nos,
+Nos,138796,اكسسوارات,مطاط 12 كرت كيس 10 اشكال 7/6/8,1,0,,0,2099-12-31,0,6912345138796,,Nos,
+Nos,140140,اكسسوارات,140140,1,0,,0,2099-12-31,0,140140140,,Nos,
+Nos,14141,اكسسوارات,14141,1,0,,0,2099-12-31,0,4000414141,,Nos,
+Nos,1415,اكسسوارات,1415,1,0,,0,2099-12-31,0,4000196901415,,Nos,
+Nos,14958,اكسسوارات,14958,1,0,,0,2099-12-31,0,6912191214958,,Nos,
+Nos,1498,اكسسوارات,9200396114638,1,0,,0,2099-12-31,0,9200396114638,,Nos,
+Nos,15086,اكسسوارات,15086,1,0,,0,2099-12-31,0,9242092015086,,Nos,
+Nos,15151,اكسسوارات,15151,1,0,,0,2099-12-31,0,4000515151,,Nos,
+Nos,154237,اكسسوارات,مساك فراشة حبه كبير 6 حبة صغير كرت 8 شكل,1,0,,0,2099-12-31,0,8652369924101,,Nos,
+Nos,154392,اكسسوارات,154392,1,0,,0,2099-12-31,0,6930381543923,,Nos,
+Nos,154395,اكسسوارات,154395,1,0,,0,2099-12-31,0,6930381543954,,Nos,
+Nos,15496,اكسسوارات,15496,1,0,,0,2099-12-31,0,6974482515496,,Nos,
+Nos,1585,اكسسوارات,8652369925085,1,0,,0,2099-12-31,0,8652369925085,,Nos,
+Nos,1594,اكسسوارات,6920251542682,1,0,,0,2099-12-31,0,6920251542682,,Nos,
+Nos,161770,اكسسوارات,طقم طوق مع كلبس فيونكه 11 موديل 3,1,0,,0,2099-12-31,0,6920255311819,,Nos,
+Nos,161792,اكسسوارات,طقم نظارة مع كلبس عدد 8 اشكال 6/1,1,0,,0,2099-12-31,0,6935929871018,,Nos,
+Nos,161793,اكسسوارات,طقم نظارة مع سلس عدد 8 اشكال 1,1,0,,0,2099-12-31,0,6937501072004,,Nos,
+Nos,161841,اكسسوارات,161841,1,0,,0,2099-12-31,0,6902025121231,,Nos,
+Nos,161847,اكسسوارات,161847,1,0,,0,2099-12-31,0,6950151618477,,Nos,
+Nos,165A,اكسسوارات,165A,1,0,,0,2099-12-31,0,2097281338975,,Nos,
+Nos,16809,اكسسوارات,16809,1,0,,0,2099-12-31,0,3337875816809,,Nos,
+Nos,16847,اكسسوارات,16847,1,0,,0,2099-12-31,0,3337875816847,,Nos,
+Nos,1701,اكسسوارات,8851932469104,1,0,,0,2099-12-31,0,8851932469104,,Nos,
+Nos,17026,اكسسوارات,17026,1,0,,0,2099-12-31,0,6920251117026,,Nos,
+Nos,1703,اكسسوارات,5912676276076,1,0,,0,2099-12-31,0,5912676276076,,Nos,
+Nos,1733,اكسسوارات,4116621761216,1,0,,0,2099-12-31,0,4116621761216,,Nos,
+Nos,1735,اكسسوارات,6977925340419,1,0,,0,2099-12-31,0,6977925340419,,Nos,
+Nos,1757,اكسسوارات,1196148130316,1,0,,0,2099-12-31,0,1196148130316,,Nos,
+Nos,17948,اكسسوارات,17948,1,0,,0,2099-12-31,0,3066109417948,,Nos,
+Nos,17994,اكسسوارات,17994,1,0,,0,2099-12-31,0,2025001617994,,Nos,
+Nos,18223,اكسسوارات,18223,1,0,,0,2099-12-31,0,6912341618223,,Nos,
+Nos,18380,اكسسوارات,18380,1,0,,0,2099-12-31,0,2025001618380,,Nos,
+Nos,1872,اكسسوارات,1872,1,0,,0,2099-12-31,0,4800888221872,,Nos,
+Nos,191004,اكسسوارات,191004,1,0,,0,2099-12-31,0,769915191004,,Nos,
+Nos,201842,اكسسوارات,201842,1,0,,0,2099-12-31,0,3152200201842,,Nos,
+Nos,2020,اكسسوارات,2020,1,0,,0,2099-12-31,0,4000202020,,Nos,
+Nos,202020,اكسسوارات,202020,1,0,,0,2099-12-31,0,5000202020,,Nos,
+Nos,202209,اكسسوارات,اقلام روج ميس ديم 2309,1,0,,0,2099-12-31,0,6913134202209,,Nos,
+Nos,20243,اكسسوارات,باكت رموش طبيعي,1,0,,0,2099-12-31,0,6978941520243,,Nos,
+Nos,20812,اكسسوارات,20812,1,0,,0,2099-12-31,0,8809700320812,,Nos,
+Nos,20841,اكسسوارات,20841,1,0,,0,2099-12-31,0,6907240320841,,Nos,
+Nos,20956,اكسسوارات,20956,1,0,,0,2099-12-31,0,6973911220956,,Nos,
+Nos,2121,اكسسوارات,خواتم مع المحبس رزكون,1,0,,0,2099-12-31,0,212121,,Nos,
+Nos,21212,اكسسوارات,21212,1,0,,0,2099-12-31,0,4000121212,,Nos,
+Nos,21590,اكسسوارات,21590,1,0,,0,2099-12-31,0,721590,,Nos,
+Nos,221B,اكسسوارات,221B,1,0,,0,2099-12-31,0,6971606202218,,Nos,
+Nos,22338,اكسسوارات,22338,1,0,,0,2099-12-31,0,3353728522338,,Nos,
+Nos,2244,اكسسوارات,2244,1,0,,0,2099-12-31,0,9005800352244,,Nos,
+Nos,22878,اكسسوارات,اساور رجالي نسائي,1,0,,0,2099-12-31,0,8991283322878,,Nos,
+Nos,23019,اكسسوارات,23019,1,0,,0,2099-12-31,0,6920138823019,,Nos,
+Nos,23026,اكسسوارات,23026,1,0,,0,2099-12-31,0,6920138823026,,Nos,
+Nos,233233,اكسسوارات,233233,1,0,,0,2099-12-31,0,111233233,,Nos,
+Nos,23454,اكسسوارات,23454,1,0,,0,2099-12-31,0,6932025123454,,Nos,
+Nos,24025,اكسسوارات,24025,1,0,,0,2099-12-31,0,6937803924025,,Nos,
+Nos,244244,اكسسوارات,244244,1,0,,0,2099-12-31,0,111244244,,Nos,
+Nos,24513,اكسسوارات,24513,1,0,,0,2099-12-31,0,3600531324513,,Nos,
+Nos,24611,اكسسوارات,24611,1,0,,0,2099-12-31,0,072140024611,,Nos,
+Nos,25092,اكسسوارات,25092,1,0,,0,2099-12-31,0,8652369925092,,Nos,
+Nos,25146,اكسسوارات,25146,1,0,,0,2099-12-31,0,8652369925146,,Nos,
+Nos,2520,اكسسوارات,2520,1,0,,0,2099-12-31,0,6882169872520,,Nos,
+Nos,25351,اكسسوارات,25351,1,0,,0,2099-12-31,0,5632467125351,,Nos,
+Nos,25560,اكسسوارات,علب سحاب مربع وسط,1,0,,0,2099-12-31,0,150055625560,,Nos,
+Nos,25561,اكسسوارات,علب سحاب مربع كبير,1,0,,0,2099-12-31,0,150055625561,,Nos,
+Nos,25562,اكسسوارات,علب سحاب اساور طويل,1,0,,0,2099-12-31,0,150055625562,,Nos,
+Nos,25563,اكسسوارات,علب اساور طويل,1,0,,0,2099-12-31,0,150055625563,,Nos,
+Nos,25564,اكسسوارات,علب خواتم مربع,1,0,,0,2099-12-31,0,150055625564,,Nos,
+Nos,25565,اكسسوارات,علب خواتم قطيفة,1,0,,0,2099-12-31,0,150055625565,,Nos,
+Nos,25566,اكسسوارات,علب طقوم وسط,1,0,,0,2099-12-31,0,150055625566,,Nos,
+Nos,26-2862,اكسسوارات,26-2862,1,0,,0,2099-12-31,0,28622862,,Nos,
+Nos,26-5569,اكسسوارات,26-5569,1,0,,0,2099-12-31,0,55695569,,Nos,
+Nos,26-AF8808,اكسسوارات,26-AF8808,1,0,,0,2099-12-31,0,88088808,,Nos,
+Nos,26-SDR-211,اكسسوارات,26-SDR-211,1,0,,0,2099-12-31,0,SDR211211,,Nos,
+Nos,263,اكسسوارات,263,1,0,,0,2099-12-31,0,6933885500263,,Nos,
+Nos,26411,اكسسوارات,26411,1,0,,0,2099-12-31,0,6287015126411,,Nos,
+Nos,26677,اكسسوارات,كريم ستافيل,1,0,,0,2099-12-31,0,072140026677,,Nos,
+Nos,2676,اكسسوارات,2676,1,0,,0,2099-12-31,0,011111022676,,Nos,
+Nos,27066,اكسسوارات,27066,1,0,,0,2099-12-31,0,303160227066,,Nos,
+Nos,272B,اكسسوارات,272B,1,0,,0,2099-12-31,0,1801025620025,,Nos,
+Nos,28568,اكسسوارات,28568,1,0,,0,2099-12-31,0,6925832828568,,Nos,
+Nos,28860,اكسسوارات,28860,1,0,,0,2099-12-31,0,6291108528860,,Nos,
+Nos,3,اكسسوارات,cheese burger,1,0,,0,2099-12-31,0,735745699119,,Nos,
+Nos,3007546,اكسسوارات,3007546,1,0,,0,2099-12-31,0,8904023007546,,Nos,
+Nos,30148,اكسسوارات,30148,1,0,,0,2099-12-31,0,8901248230148,,Nos,
+Nos,3045,اكسسوارات,3045,1,0,,0,2099-12-31,0,6940791023045,,Nos,
+Nos,30706,اكسسوارات,30706,1,0,,0,2099-12-31,0,725272730706,,Nos,
+Nos,30782,اكسسوارات,بوش مجموعة,1,0,,0,2099-12-31,0,6939374130782,,Nos,
+Nos,309808,اكسسوارات,309808,1,0,,0,2099-12-31,0,7295322309808,,Nos,
+Nos,309934,اكسسوارات,309934,1,0,,0,2099-12-31,0,6972907309934,,Nos,
+Nos,3113,اكسسوارات,3113,1,0,,0,2099-12-31,0,100113113,,Nos,
+Nos,31313,اكسسوارات,31313,1,0,,0,2099-12-31,0,4000131313,,Nos,
+Nos,31545,اكسسوارات,سلوس بناتي دمعة,1,0,,0,2099-12-31,0,5456531545,,Nos,
+Nos,31569,اكسسوارات,تيجان بناتي,1,0,,0,2099-12-31,0,6905001131569,,Nos,
+Nos,31890,اكسسوارات,31890,1,0,,0,2099-12-31,0,6977892731890,,Nos,
+Nos,33550,اكسسوارات,33550,1,0,,0,2099-12-31,0,8809640733550,,Nos,
+Nos,34020,اكسسوارات,34020,1,0,,0,2099-12-31,0,6957601134020,,Nos,
+Nos,34060,اكسسوارات,34060,1,0,,0,2099-12-31,0,769915234060,,Nos,
+Nos,34218,اكسسوارات,34218,1,0,,0,2099-12-31,0,6932021134218,,Nos,
+Nos,3434,اكسسوارات,سلوس فايتي كليف,1,0,فايتي,0,2099-12-31,0,343434,,Nos,
+Nos,34919,اكسسوارات,34919,1,0,,0,2099-12-31,0,7702018334919,,Nos,
+Nos,350590,اكسسوارات,روج  سائل 330411,1,0,,0,2099-12-31,0,6977270350590,,Nos,
+Nos,35306,اكسسوارات,35306,1,0,,0,2099-12-31,0,6281056335306,,Nos,
+Nos,3709,اكسسوارات,3709,1,0,,0,2099-12-31,0,3401578653709,,Nos,
+Nos,37101,اكسسوارات,37101,1,0,,0,2099-12-31,0,6291108737101,,Nos,
+Nos,37190,اكسسوارات,37190,1,0,,0,2099-12-31,0,8809640737190,,Nos,
+Nos,3737,اكسسوارات,اساور مسمار,1,0,,0,2099-12-31,0,373737,,Nos,
+Nos,37897,اكسسوارات,37897,1,0,,0,2099-12-31,0,6291108737897,,Nos,
+Nos,3817,اكسسوارات,3817,1,0,,0,2099-12-31,0,PB2501010203817,,Nos,
+Nos,38405,اكسسوارات,38405,1,0,,0,2099-12-31,0,6291108738405,,Nos,
+Nos,38436,اكسسوارات,38436,1,0,,0,2099-12-31,0,6291108738436,,Nos,
+Nos,38573,اكسسوارات,38573,1,0,,0,2099-12-31,0,6291108738573,,Nos,
+Nos,38597,اكسسوارات,38597,1,0,,0,2099-12-31,0,6291108738597,,Nos,
+Nos,38610,اكسسوارات,38610,1,0,,0,2099-12-31,0,6291108738610,,Nos,
+Nos,38849,اكسسوارات,38849,1,0,,0,2099-12-31,0,6291108738849,,Nos,
+Nos,38877,اكسسوارات,38877,1,0,,0,2099-12-31,0,138877,,Nos,
+Nos,39068,اكسسوارات,39068,1,0,,0,2099-12-31,0,6291108739068,,Nos,
+Nos,39523,اكسسوارات,39523,1,0,,0,2099-12-31,0,6922211339523,,Nos,
+Nos,39570,اكسسوارات,39570,1,0,,0,2099-12-31,0,8809596939570,,Nos,
+Nos,39615,اكسسوارات,39615,1,0,,0,2099-12-31,0,6922211339615,,Nos,
+Nos,400101,اكسسوارات,قطب كرت نيو مارك,1,0,,0,2099-12-31,0,6906036400101,,Nos,
+Nos,40061,اكسسوارات,40061,1,0,,0,2099-12-31,0,9551001840061,,Nos,
+Nos,401184,اكسسوارات,401184,1,0,,0,2099-12-31,0,8310039401184,,Nos,
+Nos,40313,اكسسوارات,40313,1,0,,0,2099-12-31,0,010181040313,,Nos,
+Nos,40358,اكسسوارات,اقلام ديموند 9244,1,0,,0,2099-12-31,0,6977925340358,,Nos,
+Nos,40390,اكسسوارات,40390,1,0,,0,2099-12-31,0,8901248240390,,Nos,
+Nos,40400,اكسسوارات,40400,1,0,,0,2099-12-31,0,6971335440400,,Nos,
+Nos,40421,اكسسوارات,40421,1,0,,0,2099-12-31,0,3401348840421,,Nos,
+Nos,40831,اكسسوارات,40831,1,0,,0,2099-12-31,0,6974479440831,,Nos,
+Nos,4091,اكسسوارات,4091,1,0,,0,2099-12-31,0,40914091,,Nos,
+Nos,4114,اكسسوارات,4114,1,0,,0,2099-12-31,0,100114114,,Nos,
+Nos,4119,اكسسوارات,اسفنج مائي,1,0,,0,2099-12-31,0,4820230804119,,Nos,
+Nos,41278,اكسسوارات,41278,1,0,,0,2099-12-31,0,3600530941278,,Nos,
+Nos,41414,اكسسوارات,41414,1,0,,0,2099-12-31,0,4000141414,,Nos,
+Nos,41414,اكسسوارات,قطب كرز,1,0,,0,2099-12-31,0,5000141414,,Nos,
+Nos,41451,اكسسوارات,41451,1,0,,0,2099-12-31,0,6920511341451,,Nos,
+Nos,41456,اكسسوارات,41456,1,0,,0,2099-12-31,0,052336341456,,Nos,
+Nos,43213,اكسسوارات,43213,1,0,,0,2099-12-31,0,743213,,Nos,
+Nos,43558,اكسسوارات,لمعه جسم فازلين,1,0,,0,2099-12-31,0,305210043558,,Nos,
+Nos,43788,اكسسوارات,43788,1,0,,0,2099-12-31,0,6920251543788,,Nos,
+Nos,43825,اكسسوارات,43825,1,0,,0,2099-12-31,0,6920251543825,,Nos,
+Nos,43863,اكسسوارات,43863,1,0,,0,2099-12-31,0,6920251543863,,Nos,
+Nos,43930,اكسسوارات,43930,1,0,,0,2099-12-31,0,6930381543930,,Nos,
+Nos,44277,اكسسوارات,44277,1,0,,0,2099-12-31,0,0376662844277,,Nos,
+Nos,447447,اكسسوارات,كلبس كرز,1,0,,0,2099-12-31,0,447447447,,Nos,
+Nos,45617,اكسسوارات,45617,1,0,,0,2099-12-31,0,7509552845617,,Nos,
+Nos,46122,اكسسوارات,46122,1,0,,0,2099-12-31,0,6974772946122,,Nos,
+Nos,46134,اكسسوارات,اقلام كحل عريض ابيض+ازرق,1,0,,0,2099-12-31,0,6920982846134,,Nos,
+Nos,4646,اكسسوارات,4646,1,0,,0,2099-12-31,0,464646,,Nos,
+Nos,4653,اكسسوارات,4653,1,0,,0,2099-12-31,0,011111054653,,Nos,
+Nos,4705,اكسسوارات,4705,1,0,,0,2099-12-31,0,033200194705,,Nos,
+Nos,4747,اكسسوارات,4747,1,0,,0,2099-12-31,0,474747,,Nos,
+Nos,47535,اكسسوارات,47535,1,0,,0,2099-12-31,0,6977740247535,,Nos,
+Nos,478021,اكسسوارات,478021,1,0,,0,2099-12-31,0,8901248478021,,Nos,
+Nos,4848,اكسسوارات,4848,1,0,,0,2099-12-31,0,484848,,Nos,
+Nos,48538,اكسسوارات,48538,1,0,,0,2099-12-31,0,6903645548538,,Nos,
+Nos,49280,اكسسوارات,49280,1,0,,0,2099-12-31,0,4928049280,,Nos,
+Nos,4949,اكسسوارات,4949,1,0,,0,2099-12-31,0,494949,,Nos,
+Nos,500081,اكسسوارات,500081,1,0,,0,2099-12-31,0,6294007500081,,Nos,
+Nos,500142,اكسسوارات,500142,1,0,,0,2099-12-31,0,6294007500142,,Nos,
+Nos,5009695,اكسسوارات,5009695,1,0,,0,2099-12-31,0,9853415009695,,Nos,
+Nos,501316,اكسسوارات,501316,1,0,,0,2099-12-31,0,6294007501316,,Nos,
+Nos,501323,اكسسوارات,501323,1,0,,0,2099-12-31,0,6294007501323,,Nos,
+Nos,501330,اكسسوارات,501330,1,0,,0,2099-12-31,0,6294007501330,,Nos,
+Nos,501446,اكسسوارات,501446,1,0,,0,2099-12-31,0,6294007501446,,Nos,
+Nos,501989,اكسسوارات,501989,1,0,,0,2099-12-31,0,6294007501989,,Nos,
+Nos,502689,اكسسوارات,502689,1,0,,0,2099-12-31,0,6294007502689,,Nos,
+Nos,503211,اكسسوارات,503211,1,0,,0,2099-12-31,0,6294007503211,,Nos,
+Nos,504218,اكسسوارات,504218,1,0,,0,2099-12-31,0,6294007504218,,Nos,
+Nos,5044,اكسسوارات,5044,1,0,,0,2099-12-31,0,50445044,,Nos,
+Nos,5050,اكسسوارات,5050,1,0,,0,2099-12-31,0,505050,,Nos,
+Nos,505215,اكسسوارات,505215,1,0,,0,2099-12-31,0,6294007505215,,Nos,
+Nos,505413,اكسسوارات,505413,1,0,,0,2099-12-31,0,6294007505413,,Nos,
+Nos,505512,اكسسوارات,505512,1,0,,0,2099-12-31,0,6294007505512,,Nos,
+Nos,505710,اكسسوارات,505710,1,0,,0,2099-12-31,0,6294007505710,,Nos,
+Nos,5058,اكسسوارات,5058,1,0,,0,2099-12-31,0,50585058,,Nos,
+Nos,51062,اكسسوارات,51062,1,0,,0,2099-12-31,0,000006251062,,Nos,
+Nos,51147,اكسسوارات,51147,1,0,,0,2099-12-31,0,8901248451147,,Nos,
+Nos,5115,اكسسوارات,5115,1,0,,0,2099-12-31,0,100115115,,Nos,
+Nos,51222,اكسسوارات,51222,1,0,,0,2099-12-31,0,8901248451222,,Nos,
+Nos,51260,اكسسوارات,51260,1,0,,0,2099-12-31,0,8901248451260,,Nos,
+Nos,51392,اكسسوارات,51392,1,0,,0,2099-12-31,0,6946038651392,,Nos,
+Nos,51415,اكسسوارات,51415,1,0,,0,2099-12-31,0,6946038651415,,Nos,
+Nos,5151,اكسسوارات,5151,1,0,,0,2099-12-31,0,515151,,Nos,
+Nos,51515,اكسسوارات,51515,1,0,,0,2099-12-31,0,4000151515,,Nos,
+Nos,51515,اكسسوارات,51515,1,0,,0,2099-12-31,0,5000151515,,Nos,
+Nos,51574,اكسسوارات,51574,1,0,,0,2099-12-31,0,8901248451574,,Nos,
+Nos,51611,اكسسوارات,51611,1,0,,0,2099-12-31,0,8901248451611,,Nos,
+Nos,51712,اكسسوارات,51712,1,0,,0,2099-12-31,0,1929650451712,,Nos,
+Nos,5252,اكسسوارات,5252,1,0,,0,2099-12-31,0,525252,,Nos,
+Nos,52664,اكسسوارات,اساور فرفشة,1,0,,0,2099-12-31,0,5252664,,Nos,
+Nos,52665,اكسسوارات,اساور فرفشة منوعين,1,0,,0,2099-12-31,0,5252665,,Nos,
+Nos,53191,اكسسوارات,قطب طقم حلق مدور ملون,1,0,,0,2099-12-31,0,5319153191,,Nos,
+Nos,5353,اكسسوارات,5353,1,0,,0,2099-12-31,0,535353,,Nos,
+Nos,54094,اكسسوارات,54094,1,0,,0,2099-12-31,0,3760237854094,,Nos,
+Nos,54168,اكسسوارات,مصحح حواجب نوت+ برافو ليدي,1,0,,0,2099-12-31,0,6994626854168,,Nos,
+Nos,5454,اكسسوارات,5454,1,0,,0,2099-12-31,0,545454,,Nos,
+Nos,55045,اكسسوارات,55045,1,0,,0,2099-12-31,0,50455045,,Nos,
+Nos,552869,اكسسوارات,552869,1,0,,0,2099-12-31,0,5528699123923,,Nos,
+Nos,55421,اكسسوارات,55421,1,0,,0,2099-12-31,0,5000655421,,Nos,
+Nos,5555,اكسسوارات,5555,1,0,,0,2099-12-31,0,555555,,Nos,
+Nos,5568,اكسسوارات,5568,1,0,,0,2099-12-31,0,55685568,,Nos,
+Nos,55794,اكسسوارات,طقم سلوس فراشة,1,0,,0,2099-12-31,0,5579455794,,Nos,
+Nos,5581,اكسسوارات,طقم بناتي قلب,1,0,,0,2099-12-31,0,55815581,,Nos,
+Nos,56109,اكسسوارات,56109,1,0,,0,2099-12-31,0,0506699456109,,Nos,
+Nos,56210,اكسسوارات,56210,1,0,,0,2099-12-31,0,1617951256210,,Nos,
+Nos,56213,اكسسوارات,56213,1,0,,0,2099-12-31,0,1617941256213,,Nos,
+Nos,5656,اكسسوارات,5656,1,0,,0,2099-12-31,0,565656,,Nos,
+Nos,56649,اكسسوارات,56649,1,0,,0,2099-12-31,0,6985948556649,,Nos,
+Nos,56787,اكسسوارات,56787,1,0,,0,2099-12-31,0,897865456456787,,Nos,
+Nos,57370,اكسسوارات,57370,1,0,,0,2099-12-31,0,4342939057370,,Nos,
+Nos,57374,اكسسوارات,57374,1,0,,0,2099-12-31,0,8901248257374,,Nos,
+Nos,5757,اكسسوارات,5757,1,0,,0,2099-12-31,0,575757,,Nos,
+Nos,5762,اكسسوارات,اساور فان كليف,1,0,,0,2099-12-31,0,57625762,,Nos,
+Nos,5786,اكسسوارات,5786,1,0,,0,2099-12-31,0,57865786,,Nos,
+Nos,5801,اكسسوارات,5801,1,0,,0,2099-12-31,0,58015801,,Nos,
+Nos,58174,اكسسوارات,58174,1,0,,0,2099-12-31,0,9112912458174,,Nos,
+Nos,58439,اكسسوارات,58439,1,0,,0,2099-12-31,0,8992803658439,,Nos,
+Nos,5858,اكسسوارات,5858,1,0,,0,2099-12-31,0,585858,,Nos,
+Nos,5897,اكسسوارات,5897,1,0,,0,2099-12-31,0,8888086785897,,Nos,
+Nos,5959,اكسسوارات,5959,1,0,,0,2099-12-31,0,595959,,Nos,
+Nos,59684,اكسسوارات,59684,1,0,,0,2099-12-31,0,6291107459684,,Nos,
+Nos,603132,اكسسوارات,603132,1,0,,0,2099-12-31,0,6926633603132,,Nos,
+Nos,6060,اكسسوارات,6060,1,0,,0,2099-12-31,0,606060,,Nos,
+Nos,6116,اكسسوارات,6116,1,0,,0,2099-12-31,0,100116116,,Nos,
+Nos,61172,اكسسوارات,61172,1,0,,0,2099-12-31,0,8809576261172,,Nos,
+Nos,6145,اكسسوارات,سلوس بناتي كرزه,1,0,,0,2099-12-31,0,45248796145,,Nos,
+Nos,6151,اكسسوارات,6151,1,0,,0,2099-12-31,0,3499775636151,,Nos,
+Nos,61616,اكسسوارات,61616,1,0,,0,2099-12-31,0,4000161616,,Nos,
+Nos,61616,اكسسوارات,61616,1,0,,0,2099-12-31,0,5000161616,,Nos,
+Nos,61839,اكسسوارات,61839,1,0,,0,2099-12-31,0,6920250161839,,Nos,
+Nos,6265,اكسسوارات,6265,1,0,,0,2099-12-31,0,243A16265,,Nos,
+Nos,62662,اكسسوارات,ابيام فيونكة مع المراطق,1,0,,0,2099-12-31,0,662662662,,Nos,
+Nos,62898,اكسسوارات,62898,1,0,,0,2099-12-31,0,156486456162898,,Nos,
+Nos,63122,اكسسوارات,فرشم مكياج بيوتي,1,0,بيوتي,0,2099-12-31,0,6952474163122,,Nos,
+Nos,63531,اكسسوارات,كلبس كرز  2,1,0,,0,2099-12-31,0,000000063531,,Nos,
+Nos,6377,اكسسوارات,6377,1,0,,0,2099-12-31,0,100106377,,Nos,
+Nos,6386,اكسسوارات,6386,1,0,,0,2099-12-31,0,100106386,,Nos,
+Nos,6400,اكسسوارات,6400,1,0,,0,2099-12-31,0,100106400,,Nos,
+Nos,6432,اكسسوارات,6432,1,0,,0,2099-12-31,0,100106432,,Nos,
+Nos,6437,اكسسوارات,6437,1,0,,0,2099-12-31,0,100106437,,Nos,
+Nos,6477,اكسسوارات,6477,1,0,,0,2099-12-31,0,8809875456477,,Nos,
+Nos,67,اكسسوارات,سلس,1,0,,0,2099-12-31,0,2225638789310,,Nos,
+Nos,67122,اكسسوارات,67122,1,0,,0,2099-12-31,0,6281006567122,,Nos,
+Nos,67217,اكسسوارات,67217,1,0,,0,2099-12-31,0,6291106067217,,Nos,
+Nos,67224,اكسسوارات,67224,1,0,,0,2099-12-31,0,6291106067224,,Nos,
+Nos,6767,اكسسوارات,باكت مسكرة رومنتك جديد,1,0,رومنتك,0,2099-12-31,0,6971204786110,,Nos,
+Nos,68160,اكسسوارات,68160,1,0,,0,2099-12-31,0,6972943768160,,Nos,
+Nos,6831,اكسسوارات,مورد يارا,1,0,,0,2099-12-31,0,6957834806831,,Nos,
+Nos,6868,اكسسوارات,باكت مسكرة سفن دي الأصلي,1,0,سفن دي,0,2099-12-31,0,6971204785984,,Nos,
+Nos,690442578301,اكسسوارات,690442578301,1,0,,0,2099-12-31,0,6904425783019,,Nos,
+Nos,694605123971,اكسسوارات,694605123971,1,0,,0,2099-12-31,0,6946051239713,,Nos,
+Nos,70009,اكسسوارات,70009,1,0,,0,2099-12-31,0,8809416470009,,Nos,
+Nos,70016,اكسسوارات,70016,1,0,,0,2099-12-31,0,8809416470016,,Nos,
+Nos,7079,اكسسوارات,7079,1,0,,0,2099-12-31,0,9944185070797,,Nos,
+Nos,708,اكسسوارات,سلوس 1,1,0,,0,2099-12-31,0,8459425957314,,Nos,
+Nos,7117,اكسسوارات,7117,1,0,,0,2099-12-31,0,100117117,,Nos,
+Nos,71425,اكسسوارات,71425,1,0,,0,2099-12-31,0,6912316171425,,Nos,
+Nos,71717,اكسسوارات,71717,1,0,,0,2099-12-31,0,4000171717,,Nos,
+Nos,71717,اكسسوارات,71717,1,0,,0,2099-12-31,0,5000171717,,Nos,
+Nos,72,اكسسوارات,وهمي,1,0,,0,2099-12-31,0,1705217677777,,Nos,
+Nos,7210,اكسسوارات,7210,1,0,,0,2099-12-31,0,3337875597210,,Nos,
+Nos,721496,اكسسوارات,721496,1,0,,0,2099-12-31,0,8410664651975,,Nos,
+Nos,721497,اكسسوارات,721497,1,0,,0,2099-12-31,0,1277080562172,,Nos,
+Nos,721501,اكسسوارات,721501,1,0,,0,2099-12-31,0,3970357621500,,Nos,
+Nos,721502,اكسسوارات,721502,1,0,,0,2099-12-31,0,5256367739854,,Nos,
+Nos,721587,اكسسوارات,721587,1,0,,0,2099-12-31,0,721587-3,,Nos,
+Nos,721588,اكسسوارات,721588,1,0,,0,2099-12-31,0,721588-2,,Nos,
+Nos,721589,اكسسوارات,721589,1,0,,0,2099-12-31,0,721589-2,,Nos,
+Nos,721592,اكسسوارات,721592,1,0,,0,2099-12-31,0,3783284477894,,Nos,
+Nos,740404,اكسسوارات,740404,1,0,,0,2099-12-31,0,0863765019720,,Nos,
+Nos,741442,اكسسوارات,741442,1,0,,0,2099-12-31,0,9808036205380,,Nos,
+Nos,741489,اكسسوارات,741489,1,0,,0,2099-12-31,0,9975507493062,,Nos,
+Nos,741501,اكسسوارات,741501,1,0,,0,2099-12-31,0,7529067516208,,Nos,
+Nos,741975,اكسسوارات,741975,1,0,,0,2099-12-31,0,5726738519106,,Nos,
+Nos,741983,اكسسوارات,741983,1,0,,0,2099-12-31,0,7560980367263,,Nos,
+Nos,742024,اكسسوارات,742024,1,0,,0,2099-12-31,0,4795293571059,,Nos,
+Nos,742028,اكسسوارات,742028,1,0,,0,2099-12-31,0,1265128591369,,Nos,
+Nos,742226,اكسسوارات,742226,1,0,,0,2099-12-31,0,9055740299062,,Nos,
+Nos,742579,اكسسوارات,742579,1,0,,0,2099-12-31,0,7923884103502,,Nos,
+Nos,742786,اكسسوارات,742786,1,0,,0,2099-12-31,0,3035411949676,,Nos,
+Nos,742851,اكسسوارات,742851,1,0,,0,2099-12-31,0,3497910689208,,Nos,
+Nos,742896,اكسسوارات,742896,1,0,,0,2099-12-31,0,6072988649711,,Nos,
+Nos,742904,اكسسوارات,742904,1,0,,0,2099-12-31,0,7997910438715,,Nos,
+Nos,742954,اكسسوارات,742954,1,0,,0,2099-12-31,0,6497698312876,,Nos,
+Nos,743066,اكسسوارات,743066,1,0,,0,2099-12-31,0,3591919882360,,Nos,
+Nos,743070,اكسسوارات,743070,1,0,,0,2099-12-31,0,4853792486035,,Nos,
+Nos,743489,اكسسوارات,743489,1,0,,0,2099-12-31,0,6725487120396,,Nos,
+Nos,743565,اكسسوارات,743565,1,0,,0,2099-12-31,0,743565-2,,Nos,
+Nos,743600,اكسسوارات,743600,1,0,,0,2099-12-31,0,743600-2,,Nos,
+Nos,743606,اكسسوارات,743606,1,0,,0,2099-12-31,0,7176209262822,,Nos,
+Nos,743622,اكسسوارات,743622,1,0,,0,2099-12-31,0,9160060587857,,Nos,
+Nos,744107,اكسسوارات,744107,1,0,,0,2099-12-31,0,7279031986079,,Nos,
+Nos,750710,اكسسوارات,750710,1,0,,0,2099-12-31,0,3149990212653,,Nos,
+Nos,750711,اكسسوارات,750711,1,0,,0,2099-12-31,0,8374528204878,,Nos,
+Nos,750712,اكسسوارات,750712,1,0,,0,2099-12-31,0,1157508895719,,Nos,
+Nos,750713,اكسسوارات,750713,1,0,,0,2099-12-31,0,9934886693616,,Nos,
+Nos,750714,اكسسوارات,750714,1,0,,0,2099-12-31,0,7543289076746,,Nos,
+Nos,77092,اكسسوارات,77092,1,0,,0,2099-12-31,0,3401399277092,,Nos,
+Nos,77454,اكسسوارات,اقلام كحل اسود طلعة,1,0,,0,2099-12-31,0,8948490577454,,Nos,
+Nos,78236,اكسسوارات,78236,1,0,,0,2099-12-31,0,8901248478236,,Nos,
+Nos,78252,اكسسوارات,78252,1,0,,0,2099-12-31,0,6935356578252,,Nos,
+Nos,78813,اكسسوارات,78813,1,0,,0,2099-12-31,0,6912316178813,,Nos,
+Nos,790778,اكسسوارات,790778,1,0,,0,2099-12-31,0,6901790778022,,Nos,
+Nos,790794,اكسسوارات,790794,1,0,,0,2099-12-31,0,5671382752044,,Nos,
+Nos,790800,اكسسوارات,790800,1,0,,0,2099-12-31,0,9371005778074,,Nos,
+Nos,791052,اكسسوارات,791052,1,0,,0,2099-12-31,0,6920257910522,,Nos,
+Nos,791067,اكسسوارات,791067,1,0,,0,2099-12-31,0,6920257910676,,Nos,
+Nos,791097,اكسسوارات,791097,1,0,,0,2099-12-31,0,6920257910973,,Nos,
+Nos,80088,اكسسوارات,80088,1,0,,0,2099-12-31,0,7160934480088,,Nos,
+Nos,809129,اكسسوارات,809129,1,0,,0,2099-12-31,0,6930274809129,,Nos,
+Nos,8118,اكسسوارات,8118,1,0,,0,2099-12-31,0,100118118,,Nos,
+Nos,81818,اكسسوارات,81818,1,0,,0,2099-12-31,0,4000181818,,Nos,
+Nos,81818,اكسسوارات,81818,1,0,,0,2099-12-31,0,5000181818,,Nos,
+Nos,81947,اكسسوارات,81947,1,0,,0,2099-12-31,0,8999999581947,,Nos,
+Nos,82518,اكسسوارات,82518,1,0,,0,2099-12-31,0,6935356582518,,Nos,
+Nos,83232,اكسسوارات,83232,1,0,,0,2099-12-31,0,6971204783232,,Nos,
+Nos,83919,اكسسوارات,83919,1,0,,0,2099-12-31,0,6925213883919,,Nos,
+Nos,8407,اكسسوارات,8407,1,0,,0,2099-12-31,0,8809426813865,,Nos,
+Nos,84072,اكسسوارات,84072,1,0,,0,2099-12-31,0,6041216184072,,Nos,
+Nos,84128,اكسسوارات,مصحح حواجب أبو جهة,1,0,,0,2099-12-31,0,6933495884128,,Nos,
+Nos,84535,اكسسوارات,84535,1,0,,0,2099-12-31,0,772618084535,,Nos,
+Nos,84810,اكسسوارات,84810,1,0,,0,2099-12-31,0,6970873984810,,Nos,
+Nos,850038,اكسسوارات,850038,1,0,,0,2099-12-31,0,6972497850038,,Nos,
+Nos,85476,اكسسوارات,85476,1,0,,0,2099-12-31,0,6922965185476,,Nos,
+Nos,8555,اكسسوارات,8555,1,0,,0,2099-12-31,0,5558888555,,Nos,
+Nos,86886,اكسسوارات,سلوس بناتي,1,0,,0,2099-12-31,0,886886886,,Nos,
+Nos,87230,اكسسوارات,87230,1,0,,0,2099-12-31,0,7702018587230,,Nos,
+Nos,87307,اكسسوارات,87307,1,0,,0,2099-12-31,0,5060518887307,,Nos,
+Nos,87621,اكسسوارات,87621,1,0,,0,2099-12-31,0,6912191387621,,Nos,
+Nos,88015,اكسسوارات,88015,1,0,,0,2099-12-31,0,6925261388015,,Nos,
+Nos,88128,اكسسوارات,88128,1,0,,0,2099-12-31,0,6900001388128,,Nos,
+Nos,88289,اكسسوارات,88289,1,0,,0,2099-12-31,0,6900001388289,,Nos,
+Nos,88422,اكسسوارات,88422,1,0,,0,2099-12-31,0,6912311388422,,Nos,
+Nos,90311,اكسسوارات,90311,1,0,,0,2099-12-31,0,769915190311,,Nos,
+Nos,90356,اكسسوارات,90356,1,0,,0,2099-12-31,0,6971260890356,,Nos,
+Nos,90670,اكسسوارات,90670,1,0,,0,2099-12-31,0,769915190670,,Nos,
+Nos,90715,اكسسوارات,90715,1,0,,0,2099-12-31,0,6922965190715,,Nos,
+Nos,90784,اكسسوارات,90784,1,0,,0,2099-12-31,0,6922965190784,,Nos,
+Nos,91000,اكسسوارات,91000,1,0,,0,2099-12-31,0,6970975191000,,Nos,
+Nos,9119,اكسسوارات,9119,1,0,,0,2099-12-31,0,100119119,,Nos,
+Nos,91230,اكسسوارات,91230,1,0,,0,2099-12-31,0,033200191230,,Nos,
+Nos,91877,اكسسوارات,روج سائل 2113,1,0,,0,2099-12-31,0,3194500091877,,Nos,
+Nos,91919,اكسسوارات,91919,1,0,,0,2099-12-31,0,4000191919,,Nos,
+Nos,9281,اكسسوارات,9281,1,0,,0,2099-12-31,0,8999777009281,,Nos,
+Nos,93583,اكسسوارات,93583,1,0,,0,2099-12-31,0,4550516493583,,Nos,
+Nos,93831,اكسسوارات,93831,1,0,,0,2099-12-31,0,8809305993831,,Nos,
+Nos,94026,اكسسوارات,94026,1,0,,0,2099-12-31,0,3600523494026,,Nos,
+Nos,94138,اكسسوارات,94138,1,0,,0,2099-12-31,0,9767013694138,,Nos,
+Nos,950777999799,اكسسوارات,950777999799,1,0,,0,2099-12-31,0,9507779997992,,Nos,
+Nos,95214,اكسسوارات,95214,1,0,,0,2099-12-31,0,040232095214,,Nos,
+Nos,95776,اكسسوارات,95776,1,0,,0,2099-12-31,0,3506822095776,,Nos,
+Nos,96161,اكسسوارات,96161,1,0,,0,2099-12-31,0,6922446096161,,Nos,
+Nos,96565,اكسسوارات,جلوس جف جيرل 2093,1,0,,0,2099-12-31,0,03097187,,Nos,
+Nos,97180,اكسسوارات,97180,1,0,,0,2099-12-31,0,3337875597180,,Nos,
+Nos,97388,اكسسوارات,كريم سرافي 454ملي,1,0,,0,2099-12-31,0,3337875597388,,Nos,
+Nos,9801,اكسسوارات,9801,1,0,,0,2099-12-31,0,6920250649801,,Nos,
+Nos,9997991,اكسسوارات,9997991,1,0,,0,2099-12-31,0,9507779997991,,Nos,
+Nos,AS-3215,اكسسوارات,AS-3215,1,0,,0,2099-12-31,0,32153215,,Nos,
+Nos,AS-4520-2,اكسسوارات,AS-4520-2,1,0,,0,2099-12-31,0,4520245202,,Nos,
+Nos,AS-4932,اكسسوارات,AS-4932,1,0,,0,2099-12-31,0,49324932,,Nos,
+Nos,AS-5046,اكسسوارات,AS-5046,1,0,,0,2099-12-31,0,50465046,,Nos,
+Nos,AS-513513,اكسسوارات,AS-513513,1,0,,0,2099-12-31,0,513513513,,Nos,
+Nos,AS-5348,اكسسوارات,AS-5348,1,0,,0,2099-12-31,0,53485348,,Nos,
+Nos,AS-5349,اكسسوارات,AS-5349,1,0,,0,2099-12-31,0,125125125,,Nos,
+Nos,AS-552552,اكسسوارات,كواسر كبير,1,0,,0,2099-12-31,0,552552552,,Nos,
+Nos,AS-554554,اكسسوارات,ابيام فراشات,1,0,,0,2099-12-31,0,554554554,,Nos,
+Nos,AS-5654,اكسسوارات,AS-5654,1,0,,0,2099-12-31,0,56545654,,Nos,
+Nos,B22939,اكسسوارات,B22939,1,0,,0,2099-12-31,0,B293998,,Nos,
+Nos,B292217,اكسسوارات,B292217,1,0,,0,2099-12-31,0,B292217,,Nos,
+Nos,B2935,اكسسوارات,B2935,1,0,,0,2099-12-31,0,B293561,,Nos,
+Nos,B293583,اكسسوارات,B293583,1,0,,0,2099-12-31,0,B293583,,Nos,
+Nos,B293602,اكسسوارات,B293602,1,0,,0,2099-12-31,0,B293602,,Nos,
+Nos,B29364,اكسسوارات,B29364,1,0,,0,2099-12-31,0,B293641,,Nos,
+Nos,B293653,اكسسوارات,B293653,1,0,,0,2099-12-31,0,B293653,,Nos,
+Nos,B2937,اكسسوارات,B2937,1,0,,0,2099-12-31,0,B293719,,Nos,
+Nos,B29371,اكسسوارات,B29371,1,0,,0,2099-12-31,0,B293717,,Nos,
+Nos,B2939,اكسسوارات,B2939,1,0,,0,2099-12-31,0,B293996,,Nos,
+Nos,B29390,اكسسوارات,B29390,1,0,,0,2099-12-31,0,B293907,,Nos,
+Nos,B29398,اكسسوارات,B29398,1,0,,0,2099-12-31,0,B293985,,Nos,
+Nos,BHS546,اكسسوارات,سلس مع الحلق,1,0,,0,2099-12-31,0,5934782049191,,Nos,
+Nos,COMM,اكسسوارات,Communication,0,0,,0,2099-12-31,0,,,Nos,
+Nos,EXP_GEN,اكسسوارات,Expenses,0,0,,0,2099-12-31,0,,,Nos,
+Nos,FOOD,اكسسوارات,Meals,0,0,,0,2099-12-31,0,,,Nos,
+Nos,GIFT,اكسسوارات,Gifts,0,0,,0,2099-12-31,0,,,Nos,
+Nos,MIL,اكسسوارات,Mileage,0,0,,0,2099-12-31,0,,,Nos,
+Nos,PH-272,اكسسوارات,PH-272,1,0,,0,2099-12-31,0,6971606202720,,Nos,
+Nos,S160005,اكسسوارات,S160005,1,0,,0,2099-12-31,0,ٍ160005,,Nos,
+Nos,S160008,اكسسوارات,S160008,1,0,,0,2099-12-31,0,ٍ160008,,Nos,
+Nos,S160016,اكسسوارات,S160016,1,0,,0,2099-12-31,0,ٍ160016,,Nos,
+Nos,S210301,اكسسوارات,اسبورات نسائيه م36-41 (شد 24),1,0,,0,2099-12-31,0,6900212103015,,Nos,
+Nos,S210305,اكسسوارات,اسبورات نسائيه م36-41ش24,1,0,,0,2099-12-31,0,6900212103053,,Nos,
+Nos,S210307,اكسسوارات,اسبوات نسائيه م36-41ش24,1,0,,0,2099-12-31,0,6900212103077,,Nos,
+Nos,S210313,اكسسوارات,سبورات نسائيه م36-41ش24,1,0,,0,2099-12-31,0,6900212103138,,Nos,
+Nos,S210315,اكسسوارات,اسبورات نسائي م 36-41ش24,1,0,,0,2099-12-31,0,6900212103152,,Nos,
+Nos,SQ9235,اكسسوارات,ميداليات دبدوب,1,0,,0,2099-12-31,0,6688892350003,,Nos,
+Nos,TIPS,اكسسوارات,Tips,1,0,,0,2099-12-31,0,,,Nos,
+Nos,TRANS & ACC,اكسسوارات,Travel & Accommodation,0,0,,0,2099-12-31,0,,,Nos,
+Nos,145145,اكسسوارات نسائية فاخرة,قطب مطلي رملي,1,0,,0,2099-12-31,0,145145145,,Nos,
+Nos,5286415,اكسسوارات نسائية فاخرة,تيجان كرستال,1,0,,0,2099-12-31,0,52864154,,Nos,
+Nos,5286416,اكسسوارات نسائية فاخرة,تيجان كرستال عرائسي,1,0,,0,2099-12-31,0,52864164,,Nos,
+Nos,6161,اكسسوارات نسائية فاخرة,كفوف مطلي,1,0,,0,2099-12-31,0,616161,,Nos,
+Nos,6969,اكسسوارات نسائية فاخرة,طقوم مطلي فرفشة,1,0,,0,2099-12-31,0,696969,,Nos,
+Nos,7070,اكسسوارات نسائية فاخرة,كماشات كرستال,1,0,,0,2099-12-31,0,707070,,Nos,
+Nos,AS-221221,اكسسوارات نسائية فاخرة,تيجان متحرك زركون,1,0,,0,2099-12-31,0,221221221,,Nos,
+Nos,12288,التجميل,اظافر كلاسك كلر 5637,1,0,كلاسك,0,2099-12-31,0,8955155122881,,Nos,
+Nos,24576,التجميل,اظافر كلاسك كلر 576,1,0,كلاسك,0,2099-12-31,0,8955155245764,,Nos,
+Nos,250917,التجميل,اظافر صناعي بيوتي 5717,1,0,بيوتي,0,2099-12-31,0,6973926409179,,Nos,
+Nos,41612,التجميل,اظافر صناعي 5613,1,0,,0,2099-12-31,0,6907725041612,,Nos,
+Nos,5640,التجميل,اظافر صناعي علبة سداسي,1,0,,0,2099-12-31,0,56405640,,Nos,
+Nos,6096,التجميل,اظافر شجلام,1,0,شجلام,0,2099-12-31,0,6904587606096,,Nos,
+Nos,75255,التجميل,غراء اظافر,1,0,,0,2099-12-31,0,6997524675255,,Nos,
+Nos,575742,امصار,امصار شعر,1,0,,0,2099-12-31,0,5757525,,Nos,
+Nos,155155,حبال مائي,حبال مائي,1,0,,0,2099-12-31,0,11155155,,Nos,
+Nos,5245,حبال مائي,حبال مائي الأصلي,1,0,,0,2099-12-31,0,2145215245,,Nos,
+Nos,2020,خواتم استيل,خواتم استيل فص ملون,1,0,,0,2099-12-31,0,202020,,Nos,
+Nos,10554,خواتم زركون,خواتم زركون اصلي2,1,0,,0,2099-12-31,0,110110445,,Nos,
+Nos,1342,خواتم زركون,خواتم زركون اصلي1,1,0,,0,2099-12-31,0,1101110446,,Nos,
+Nos,1919,خواتم زركون,خواتم زركون منوع,1,0,,0,2099-12-31,0,191919,,Nos,
+Nos,2222,خواتم زركون,خواتم أبو فص زركون,1,0,,0,2099-12-31,0,222222,,Nos,
+Nos,255255,خواتم مطلي,خواتم بناتي مطلي,1,0,,0,2099-12-31,0,255255255,,Nos,
+Nos,28228,سلوس استيل,سلوس استيل كرت قصير,1,0,,0,2099-12-31,0,228228228,,Nos,
+Nos,3131,سلوس استيل,سلوس استيل 2 خط,1,0,,0,2099-12-31,0,313131,,Nos,
+Nos,3232,سلوس استيل,سلوس استيل منوع,1,0,,0,2099-12-31,0,323232,,Nos,
+Nos,3333,سلوس استيل,سلوس استيل جنيهات,1,0,,0,2099-12-31,0,333333,,Nos,
+Nos,3535,سلوس استيل,سلوس استيل مربع + منوع,1,0,,0,2099-12-31,0,353535,,Nos,
+Nos,4141,سلوس استيل,سلوس استيل 3 خط,1,0,,0,2099-12-31,0,414141,,Nos,
+Nos,4242,سلوس استيل,سلوس استيل مع القطب شانل,1,0,شانل,0,2099-12-31,0,424242,,Nos,
+Nos,130130,سلوس زركون,سلوس زركون ريديوم,1,0,,0,2099-12-31,0,130130130,,Nos,
+Nos,B292976,شنط اطفال,شنط اطفال,1,0,,0,2099-12-31,0,B292976,,Nos,
+Nos,B293012,شنط اطفال,شنط اطفال,1,0,,0,2099-12-31,0,B293012,,Nos,
+Nos,B293018,شنط اطفال,شنط اطفال,1,0,,0,2099-12-31,0,B293018,,Nos,
+Nos,B293028,شنط اطفال,شنط اطفال,1,0,,0,2099-12-31,0,B293028,,Nos,
+Nos,B293084,شنط اطفال,شنط اطفال,1,0,,0,2099-12-31,0,B293084,,Nos,
+Nos,B293098,شنط اطفال,شنط اطفال,1,0,,0,2099-12-31,0,B293098,,Nos,
+Nos,B292960,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B292960,,Nos,
+Nos,B292962,شنط بناتي,شنط بناتي شد 60,1,0,,0,2099-12-31,0,B292962,,Nos,
+Nos,B292968,شنط بناتي,شنط بناتي شد 60 حبه,1,0,,0,2099-12-31,0,B292968,,Nos,
+Nos,B292970,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B292970,,Nos,
+Nos,B292971,شنط بناتي,شنط بناتي شد 60 حبه,1,0,,0,2099-12-31,0,B292971,,Nos,
+Nos,B292981,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B292981,,Nos,
+Nos,B292986,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B292986,,Nos,
+Nos,B292991,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B292991,,Nos,
+Nos,B293001,شنط بناتي,شنط بناتي شد 60,1,0,,0,2099-12-31,0,B293001,,Nos,
+Nos,B293016,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B293016,,Nos,
+Nos,B293017,شنط بناتي,شنط بناتي شد 60 حبه,1,0,,0,2099-12-31,0,B293017,,Nos,
+Nos,B293020,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B293020,,Nos,
+Nos,B293025,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B293025,,Nos,
+Nos,B293035,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B293035,,Nos,
+Nos,B293038,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B293038,,Nos,
+Nos,B293040,شنط بناتي,شنط بناتي شد 60 حبه,1,0,,0,2099-12-31,0,B293040,,Nos,
+Nos,B293044,شنط بناتي,شنط بناتي شد 60 حبه,1,0,,0,2099-12-31,0,B293044,,Nos,
+Nos,B293048,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B293048,,Nos,
+Nos,B293054,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B293054,,Nos,
+Nos,B293058,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B293058,,Nos,
+Nos,B293061,شنط بناتي,شنط بناتي شد 60 حبة,1,0,,0,2099-12-31,0,B293061,,Nos,
+Nos,B293063,شنط بناتي,شنط بناتي شد 60,1,0,,0,2099-12-31,0,B293063,,Nos,
+Nos,B293064,شنط بناتي,شنط بناتي شد 60,1,0,,0,2099-12-31,0,B293064,,Nos,
+Nos,B293074,شنط بناتي,شنط بناتي شد 60,1,0,,0,2099-12-31,0,B293074,,Nos,
+Nos,B293101,شنط بناتي,شنط بناتي شد 60 حبه,1,0,,0,2099-12-31,0,B293101,,Nos,
+Nos,12335,شنط نسائي,شنط طقم ادوات اظافر,1,0,,0,2099-12-31,0,5000112335,,Nos,
+Nos,B292667,شنط نسائي,شنطة نسائية شد 36,1,0,,0,2099-12-31,0,B292667,,Nos,
+Nos,B292743,شنط نسائي,شنطة نسائية شد 24,1,0,,0,2099-12-31,0,B292743,,Nos,
+Nos,B292928,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,B292928,,Nos,
+Nos,B293397,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,B293397,,Nos,
+Nos,B293499,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,B293499,,Nos,
+Nos,B2935,شنط نسائي,شنطة نسائي,1,0,,0,2099-12-31,0,B293591,,Nos,
+Nos,B293563,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,B293563,,Nos,
+Nos,B293595,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,B293595,,Nos,
+Nos,B2936,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,B293652,,Nos,
+Nos,B293600,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,B293600,,Nos,
+Nos,B293610,شنط نسائي,شنطة يد نسائي,1,0,,0,2099-12-31,0,B293610,,Nos,
+Nos,B29362,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,B293621,,Nos,
+Nos,B293621,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,1101201921565,,Nos,
+Nos,B293640,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,B293640,,Nos,
+Nos,B293658,شنط نسائي,شنطة يد نسائي,1,0,,0,2099-12-31,0,B293658,,Nos,
+Nos,B293663,شنط نسائي,شنط نسائي,1,0,,0,2099-12-31,0,B293663,,Nos,
+Nos,B29371790,شنط نسائي,شنطة  نسائي,1,0,,0,2099-12-31,0,6921530096278,,Nos,
+Nos,B298080,شنط نسائي,شنطة نسائية,1,0,,0,2099-12-31,0,B298080,,Nos,
+Nos,737,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,3867146993538,,Nos,
+Nos,B293357,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293357,,Nos,
+Nos,B293477,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293477,,Nos,
+Nos,B2939,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293908,,Nos,
+Nos,B2939,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293919,,Nos,
+Nos,B2939,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293954,,Nos,
+Nos,B2939,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293969,,Nos,
+Nos,B2939,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293975,,Nos,
+Nos,B2939,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293984,,Nos,
+Nos,B293913,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293913,,Nos,
+Nos,B293938,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293938,,Nos,
+Nos,B29394,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293946,,Nos,
+Nos,B293983,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293983,,Nos,
+Nos,B29399,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293995,,Nos,
+Nos,B293990,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B293990,,Nos,
+Nos,B298160,شنط يد نسائي,شنط يد نسائي,1,0,,0,2099-12-31,0,B298160,,Nos,
+Nos,S110825,صنادل نسائي,صندل نسائي مقاس 36-41 (شد 24),1,0,,0,2099-12-31,0,S110825,,Nos,
+Nos,S110828,صنادل نسائي,صندل نسائي مقاس 36-41 (شد 24),1,0,,0,2099-12-31,0,S110828,,Nos,
+Nos,S160011,صنادل نسائي,صندل نسائي م36-41 (شد 24),1,0,,0,2099-12-31,0,S160011,,Nos,
+Nos,S160014,صنادل نسائي,صندل نسائي م36-41ش24,1,0,,0,2099-12-31,0,ٍ160014,,Nos,
+Nos,S160018,صنادل نسائي,صندل نسائي م36-41ش24,1,0,,0,2099-12-31,0,ٍ160018,,Nos,
+Nos,S160019,صنادل نسائي,صندل نسائي م36-41 (شد 24),1,0,,0,2099-12-31,0,S160019,,Nos,
+Nos,S210212,صنادل نسائي,صندل نسائي مقاس 36-41 (شد 24),1,0,,0,2099-12-31,0,6900452102120,,Nos,
+Nos,S210216,صنادل نسائي,صندل نسائي مقاس 36-41 (شد 24),1,0,,0,2099-12-31,0,6900452102168,,Nos,
+Nos,113370,طقم اطواق,طقم اطواق 10 موديل 5/8,1,0,,0,2099-12-31,0,6920251133705,,Nos,
+Nos,161809,طقم اطواق,طقم اطواق مع الكلبس عدد الاشكال 10 4/5,1,0,,0,2099-12-31,0,6932164567867,,Nos,
+Nos,121212,طقوم استيل,طقوم استيل مربع,1,0,,0,2099-12-31,0,5000121212,,Nos,
+Nos,31313,طقوم استيل,طقوم استيل خفيف منوع,1,0,,0,2099-12-31,0,5000131313,,Nos,
+Nos,4343,طقوم استيل,طقوم استيل فايتي كليف,1,0,فايتي,0,2099-12-31,0,434343,,Nos,
+Nos,4444,طقوم استيل,طقوم استيل مربع,1,0,,0,2099-12-31,0,444444,,Nos,
+Nos,4545,طقوم استيل,طقوم استيل شكل ورقة,1,0,,0,2099-12-31,0,454545,,Nos,
+Nos,AS-120120,طقوم استيل,طقوم استيل خناق,1,0,,0,2099-12-31,0,120120120,,Nos,
+Nos,236514789632,طقوم زركون,طقوم زركون راقي,1,0,,0,2099-12-31,0,236514789632145,,Nos,
+Nos,3939,طقوم زركون,طقوم زركون خناق,1,0,,0,2099-12-31,0,393939,,Nos,
+Nos,4040,طقوم زركون,طقوم زركون ملون,1,0,,0,2099-12-31,0,404040,,Nos,
+Nos,6262,طقوم زركون,طقوم زركون خناق طو,1,0,,0,2099-12-31,0,626262,,Nos,
+Nos,6464,طقوم زركون,طقوم زركون كرت اصفر,1,0,,0,2099-12-31,0,646464,,Nos,
+Nos,6565,طقوم زركون,طقوم زركون كرت ازرق,1,0,,0,2099-12-31,0,656565,,Nos,
+Nos,790998,علب هدايا,طقم اكسسوار علب هدايا 7 موديل 2,1,0,,0,2099-12-31,0,6988757909989,,Nos,
+Nos,133133,فيونكات 1,ابيام كلبس فيونكات 4435,1,0,,0,2099-12-31,0,111133133,,Nos,
+Nos,18534,فيونكات 1,فيونكات بناتي,1,0,,0,2099-12-31,0,4978326018534,,Nos,
+Nos,709,قباضات نسائي,قباضات نسائي,1,0,,0,2099-12-31,0,9502481758872,,Nos,
+Nos,718,قباضات نسائي,قباضات نسائي,1,0,,0,2099-12-31,0,2043408271199,,Nos,
+Nos,2323,قطب زركون,قطب زركون فص ملون,1,0,,0,2099-12-31,0,232323,,Nos,
+Nos,2424,قطب زركون,قطب زركون ملون صغير,1,0,,0,2099-12-31,0,242424,,Nos,
+Nos,2626,قطب زركون,قطب زركون ملون,1,0,,0,2099-12-31,0,262626,,Nos,
+Nos,2727,قطب زركون,قطب زركون ملون دائري,1,0,,0,2099-12-31,0,272727,,Nos,
+Nos,2828,قطب زركون,قطب زركون فراشه,1,0,,0,2099-12-31,0,282828,,Nos,
+Nos,2929,قطب زركون,قطب زركون منوع,1,0,,0,2099-12-31,0,292929,,Nos,
+Nos,3030,قطب زركون,قطب زركون *3 دائري,1,0,,0,2099-12-31,0,303030,,Nos,
+Nos,3838,قطب زركون,قطب زركون ثعبان,1,0,,0,2099-12-31,0,383838,,Nos,
+Nos,3998,قطب زركون,قطب دمعة زركون,1,0,,0,2099-12-31,0,39983998,,Nos,
+Nos,120121,لصق حناء صغير,نقش حناء صغير,1,0,,0,2099-12-31,0,12121121,,Nos,
+Nos,12120,لصق حناء صغير,نقش حناء منوع,1,0,,0,2099-12-31,0,12120120,,Nos,
+Nos,225228,لصق حناء صغير,اقماع حناء المليكة,1,0,,0,2099-12-31,0,228225228,,Nos,
+Nos,144144,مبارد,مبارد,1,0,,0,2099-12-31,0,11144144,,Nos,
+Nos,695657000888,نقش تاتو صغير,نقش تاتو,1,0,,0,2099-12-31,0,6956570008882,,Nos,
